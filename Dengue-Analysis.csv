@@ -1,0 +1,1001 @@
+﻿Patient ID,Gender,Age,Age Group,NS1,IgG,IgM,Area,AreaType,HouseType,District,Outcome
+1,Female,45,Middle Age,0,0,0,Mirpur,Undeveloped,Building,Dhaka,NO
+2,Male,17,Young,0,0,1,Chawkbazar,Developed,Building,Dhaka,NO
+3,Female,29,Young,0,0,0,Paltan,Undeveloped,Other,Dhaka,NO
+4,Female,63,Old,1,1,0,Motijheel,Developed,Other,Dhaka,YES
+5,Male,22,Young,0,0,0,Gendaria,Undeveloped,Building,Dhaka,NO
+6,Female,36,Middle Age,0,0,1,Dhanmondi,Developed,Other,Dhaka,NO
+7,Female,15,Children,0,0,1,New Market,Undeveloped,Building,Dhaka,NO
+8,Male,26,Young,0,0,0,New Market,Developed,Other,Dhaka,NO
+9,Female,31,Middle Age,0,0,1,Dhanmondi,Undeveloped,Tinshed,Dhaka,NO
+10,Female,10,Children,0,0,1,Sher-e-Bangla Nagar,Developed,Tinshed,Dhaka,NO
+11,Female,31,Middle Age,1,1,0,Kafrul,Undeveloped,Building,Dhaka,YES
+12,Male,10,Children,0,0,0,Dhanmondi,Developed,Tinshed,Dhaka,NO
+13,Female,13,Children,1,1,0,Pallabi,Undeveloped,Building,Dhaka,YES
+14,Female,43,Middle Age,1,1,0,Mohammadpur,Developed,Building,Dhaka,YES
+15,Male,52,Old,0,0,0,Shahbagh,Undeveloped,Other,Dhaka,NO
+16,Female,12,Children,1,1,1,Shyampur,Developed,Tinshed,Dhaka,YES
+17,Male,18,Young,0,0,1,Kalabagan,Undeveloped,Tinshed,Dhaka,NO
+18,Male,56,Old,0,0,1,Bosila,Developed,Building,Dhaka,NO
+19,Male,9,Children,1,1,1,Mirpur,Undeveloped,Tinshed,Dhaka,YES
+20,Male,27,Young,1,1,0,Mirpur,Developed,Tinshed,Dhaka,YES
+21,Female,31,Middle Age,0,1,0,Jatrabari,Undeveloped,Tinshed,Dhaka,YES
+22,Female,23,Young,0,0,0,Adabor,Developed,Other,Dhaka,NO
+23,Female,37,Middle Age,0,0,1,Kamrangirchar,Undeveloped,Tinshed,Dhaka,NO
+24,Male,44,Middle Age,0,0,1,Biman Bandar,Developed,Other,Dhaka,NO
+25,Female,17,Young,1,1,0,Pallabi,Undeveloped,Building,Dhaka,YES
+26,Female,64,Old,1,1,1,Jatrabari,Developed,Other,Dhaka,YES
+27,Female,65,Old,0,0,0,Gendaria,Undeveloped,Tinshed,Dhaka,NO
+28,Female,60,Old,0,0,0,Pallabi,Developed,Other,Dhaka,NO
+29,Female,44,Middle Age,1,1,1,Kafrul,Undeveloped,Tinshed,Dhaka,YES
+30,Female,13,Children,0,1,0,Mohammadpur,Developed,Building,Dhaka,YES
+31,Female,35,Middle Age,0,0,0,Ramna,Undeveloped,Building,Dhaka,NO
+32,Male,13,Children,1,1,1,Jatrabari,Developed,Tinshed,Dhaka,YES
+33,Female,39,Middle Age,0,0,1,Badda,Undeveloped,Building,Dhaka,NO
+34,Female,27,Young,0,0,1,Bangshal,Developed,Other,Dhaka,NO
+35,Male,11,Children,1,1,1,Sabujbagh,Undeveloped,Tinshed,Dhaka,YES
+36,Female,46,Middle Age,1,1,1,Ramna,Developed,Other,Dhaka,YES
+37,Male,10,Children,1,1,0,Hazaribagh,Undeveloped,Tinshed,Dhaka,YES
+38,Female,13,Children,0,0,1,Sutrapur,Developed,Building,Dhaka,NO
+39,Male,50,Middle Age,0,1,0,Sabujbagh,Undeveloped,Other,Dhaka,YES
+40,Male,34,Middle Age,1,1,0,Mirpur,Developed,Other,Dhaka,YES
+41,Female,54,Old,0,0,1,Kalabagan,Undeveloped,Tinshed,Dhaka,NO
+42,Female,16,Young,0,0,1,Ramna,Developed,Other,Dhaka,NO
+43,Male,51,Old,1,1,0,Bangshal,Undeveloped,Tinshed,Dhaka,YES
+44,Female,9,Children,1,1,1,Lalbagh,Developed,Tinshed,Dhaka,YES
+45,Female,37,Middle Age,0,0,0,Demra,Undeveloped,Building,Dhaka,NO
+46,Female,13,Children,0,0,0,Banasree,Developed,Tinshed,Dhaka,NO
+47,Male,62,Old,0,1,0,Sabujbagh,Undeveloped,Tinshed,Dhaka,YES
+48,Male,17,Young,0,0,1,Ramna,Developed,Building,Dhaka,NO
+49,Female,35,Middle Age,0,0,1,Bosila,Undeveloped,Tinshed,Dhaka,NO
+50,Male,9,Children,1,1,0,Cantonment,Developed,Tinshed,Dhaka,YES
+51,Male,14,Children,1,1,0,Jatrabari,Undeveloped,Tinshed,Dhaka,YES
+52,Male,37,Middle Age,0,0,0,Kalabagan,Developed,Tinshed,Dhaka,NO
+53,Male,13,Children,0,0,0,Keraniganj,Undeveloped,Other,Dhaka,NO
+54,Male,57,Old,0,0,0,Shyampur,Developed,Building,Dhaka,NO
+55,Female,41,Middle Age,0,0,0,Motijheel,Undeveloped,Building,Dhaka,NO
+56,Male,24,Young,1,1,1,Bosila,Developed,Building,Dhaka,YES
+57,Male,28,Young,0,0,0,Gendaria,Undeveloped,Other,Dhaka,NO
+58,Male,25,Young,0,0,1,Pallabi,Developed,Other,Dhaka,NO
+59,Male,44,Middle Age,0,0,1,Sutrapur,Undeveloped,Tinshed,Dhaka,NO
+60,Male,10,Children,1,1,1,Bangshal,Developed,Tinshed,Dhaka,YES
+61,Female,13,Children,1,1,1,Dhanmondi,Undeveloped,Other,Dhaka,YES
+62,Female,65,Old,1,1,0,Tejgaon,Developed,Building,Dhaka,YES
+63,Male,53,Old,0,0,0,Badda,Undeveloped,Other,Dhaka,NO
+64,Male,54,Old,0,0,1,Demra,Developed,Other,Dhaka,NO
+65,Female,59,Old,0,0,1,Khilkhet,Undeveloped,Building,Dhaka,NO
+66,Male,47,Middle Age,1,1,1,Kadamtali,Developed,Building,Dhaka,YES
+67,Female,28,Young,1,1,1,Bangshal,Undeveloped,Other,Dhaka,YES
+68,Female,38,Middle Age,1,1,0,Kadamtali,Developed,Tinshed,Dhaka,YES
+69,Female,11,Children,1,1,0,Kafrul,Undeveloped,Tinshed,Dhaka,YES
+70,Female,65,Old,0,0,0,Shahbagh,Developed,Tinshed,Dhaka,NO
+71,Male,17,Young,1,1,0,Motijheel,Undeveloped,Other,Dhaka,YES
+72,Male,64,Old,0,0,0,Gulshan,Developed,Tinshed,Dhaka,NO
+73,Female,45,Middle Age,1,1,1,Kamrangirchar,Undeveloped,Tinshed,Dhaka,YES
+74,Female,10,Children,1,1,0,Khilkhet,Developed,Building,Dhaka,YES
+75,Male,49,Middle Age,1,1,1,Demra,Undeveloped,Other,Dhaka,YES
+76,Male,61,Old,0,0,1,Ramna,Developed,Tinshed,Dhaka,NO
+77,Female,61,Old,1,1,1,Bangshal,Undeveloped,Other,Dhaka,YES
+78,Male,21,Young,0,0,1,Dhanmondi,Developed,Building,Dhaka,NO
+79,Male,64,Old,1,1,1,Jatrabari,Undeveloped,Other,Dhaka,YES
+80,Female,24,Young,0,0,0,Bosila,Developed,Tinshed,Dhaka,NO
+81,Female,62,Old,1,1,0,Bosila,Undeveloped,Building,Dhaka,YES
+82,Male,59,Old,1,1,1,Shahbagh,Developed,Other,Dhaka,YES
+83,Male,44,Middle Age,0,0,0,New Market,Undeveloped,Tinshed,Dhaka,NO
+84,Female,12,Children,1,1,0,Tejgaon,Developed,Other,Dhaka,YES
+85,Female,29,Young,1,1,1,Kalabagan,Undeveloped,Tinshed,Dhaka,YES
+86,Male,38,Middle Age,0,0,0,Biman Bandar,Developed,Building,Dhaka,NO
+87,Female,45,Middle Age,1,1,0,Banasree,Undeveloped,Building,Dhaka,YES
+88,Female,54,Old,1,1,1,Demra,Developed,Building,Dhaka,YES
+89,Female,50,Middle Age,1,1,1,Keraniganj,Undeveloped,Tinshed,Dhaka,YES
+90,Female,39,Middle Age,1,1,0,Sabujbagh,Developed,Building,Dhaka,YES
+91,Female,53,Old,0,0,0,Keraniganj,Undeveloped,Other,Dhaka,NO
+92,Male,64,Old,1,1,1,Mirpur,Developed,Building,Dhaka,YES
+93,Female,60,Old,1,1,1,Gulshan,Undeveloped,Other,Dhaka,YES
+94,Female,45,Middle Age,0,0,1,Hazaribagh,Developed,Other,Dhaka,NO
+95,Male,32,Middle Age,0,0,0,Banasree,Undeveloped,Other,Dhaka,NO
+96,Female,26,Young,0,0,0,Sabujbagh,Developed,Building,Dhaka,NO
+97,Female,58,Old,1,1,1,Rampura,Undeveloped,Building,Dhaka,YES
+98,Female,23,Young,1,1,0,Badda,Developed,Tinshed,Dhaka,YES
+99,Male,30,Young,0,0,1,Shahbagh,Undeveloped,Tinshed,Dhaka,NO
+100,Female,62,Old,0,0,0,Rampura,Developed,Tinshed,Dhaka,NO
+101,Female,34,Middle Age,0,0,0,Sutrapur,Undeveloped,Other,Dhaka,NO
+102,Female,58,Old,0,0,0,Dhanmondi,Developed,Other,Dhaka,NO
+103,Female,51,Old,0,0,1,Shyampur,Undeveloped,Building,Dhaka,NO
+104,Female,50,Middle Age,1,1,0,Bangshal,Developed,Tinshed,Dhaka,YES
+105,Female,9,Children,0,0,0,Chawkbazar,Undeveloped,Tinshed,Dhaka,NO
+106,Female,8,Children,0,0,1,Khilkhet,Developed,Other,Dhaka,NO
+107,Male,45,Middle Age,1,1,1,Jatrabari,Undeveloped,Building,Dhaka,YES
+108,Male,27,Young,1,1,1,Kafrul,Developed,Other,Dhaka,YES
+109,Female,31,Middle Age,1,1,1,Demra,Undeveloped,Building,Dhaka,YES
+110,Female,44,Middle Age,0,0,0,Gendaria,Developed,Other,Dhaka,NO
+111,Female,39,Middle Age,1,1,0,Tejgaon,Undeveloped,Tinshed,Dhaka,YES
+112,Female,9,Children,1,1,0,Khilgaon,Developed,Tinshed,Dhaka,YES
+113,Male,51,Old,1,1,0,Badda,Undeveloped,Other,Dhaka,YES
+114,Male,24,Young,0,0,0,Gendaria,Developed,Other,Dhaka,NO
+115,Male,46,Middle Age,1,1,0,Bangshal,Undeveloped,Tinshed,Dhaka,YES
+116,Male,39,Middle Age,1,1,0,Paltan,Developed,Building,Dhaka,YES
+117,Female,14,Children,1,1,0,Kamrangirchar,Undeveloped,Building,Dhaka,YES
+118,Male,42,Middle Age,1,1,0,Khilgaon,Developed,Other,Dhaka,YES
+119,Male,37,Middle Age,1,1,0,Jatrabari,Undeveloped,Tinshed,Dhaka,YES
+120,Male,31,Middle Age,1,1,0,Adabor,Developed,Building,Dhaka,YES
+121,Male,57,Old,0,0,0,Bosila,Undeveloped,Tinshed,Dhaka,NO
+122,Female,30,Young,0,0,1,Cantonment,Developed,Building,Dhaka,NO
+123,Female,57,Old,1,1,1,Motijheel,Undeveloped,Tinshed,Dhaka,YES
+124,Male,17,Young,0,0,0,Mohammadpur,Developed,Other,Dhaka,NO
+125,Female,56,Old,0,0,0,Kadamtali,Undeveloped,Tinshed,Dhaka,NO
+126,Male,54,Old,0,0,0,Ramna,Developed,Other,Dhaka,NO
+127,Female,22,Young,0,0,1,Sutrapur,Undeveloped,Other,Dhaka,NO
+128,Female,63,Old,1,1,1,Demra,Developed,Other,Dhaka,YES
+129,Male,54,Old,0,0,1,Mirpur,Undeveloped,Tinshed,Dhaka,NO
+130,Male,61,Old,1,1,1,Biman Bandar,Developed,Tinshed,Dhaka,YES
+131,Female,47,Middle Age,1,1,1,Jatrabari,Undeveloped,Tinshed,Dhaka,YES
+132,Male,18,Young,0,0,1,Motijheel,Developed,Other,Dhaka,NO
+133,Female,24,Young,1,1,0,Bangshal,Undeveloped,Other,Dhaka,YES
+134,Female,60,Old,0,0,1,Sabujbagh,Developed,Other,Dhaka,NO
+135,Female,47,Middle Age,1,1,1,Kalabagan,Undeveloped,Other,Dhaka,YES
+136,Female,19,Young,1,1,0,Paltan,Developed,Building,Dhaka,YES
+137,Male,55,Old,1,1,0,Adabor,Undeveloped,Tinshed,Dhaka,YES
+138,Female,49,Middle Age,1,1,0,Paltan,Developed,Building,Dhaka,YES
+139,Male,32,Middle Age,0,1,0,Khilgaon,Undeveloped,Tinshed,Dhaka,YES
+140,Female,8,Children,1,1,0,Demra,Developed,Tinshed,Dhaka,YES
+141,Female,14,Children,0,0,0,Keraniganj,Undeveloped,Tinshed,Dhaka,NO
+142,Male,28,Young,0,0,1,Cantonment,Developed,Other,Dhaka,NO
+143,Female,11,Children,1,1,1,Badda,Undeveloped,Other,Dhaka,YES
+144,Male,29,Young,0,0,0,Khilgaon,Developed,Building,Dhaka,NO
+145,Female,62,Old,0,0,1,Shahbagh,Undeveloped,Other,Dhaka,NO
+146,Female,65,Old,1,1,1,Paltan,Developed,Other,Dhaka,YES
+147,Female,43,Middle Age,1,1,1,Ramna,Undeveloped,Other,Dhaka,YES
+148,Female,59,Old,1,1,0,Lalbagh,Developed,Tinshed,Dhaka,YES
+149,Female,29,Young,1,1,1,Chawkbazar,Undeveloped,Tinshed,Dhaka,YES
+150,Male,17,Young,0,0,0,Khilkhet,Developed,Building,Dhaka,NO
+151,Female,41,Middle Age,1,1,1,Shahbagh,Undeveloped,Other,Dhaka,YES
+152,Female,8,Children,1,1,1,Keraniganj,Developed,Building,Dhaka,YES
+153,Female,29,Young,1,1,0,Kalabagan,Undeveloped,Tinshed,Dhaka,YES
+154,Female,54,Old,1,1,0,Kadamtali,Developed,Tinshed,Dhaka,YES
+155,Female,53,Old,0,0,1,Chawkbazar,Undeveloped,Building,Dhaka,NO
+156,Male,16,Young,1,1,1,Banasree,Developed,Building,Dhaka,YES
+157,Male,43,Middle Age,0,0,1,Kalabagan,Undeveloped,Building,Dhaka,NO
+158,Male,54,Old,0,0,0,Biman Bandar,Developed,Other,Dhaka,NO
+159,Male,41,Middle Age,0,0,0,Bangshal,Undeveloped,Tinshed,Dhaka,NO
+160,Male,42,Middle Age,0,0,0,Gulshan,Developed,Other,Dhaka,NO
+161,Female,45,Middle Age,1,1,1,Sher-e-Bangla Nagar,Undeveloped,Other,Dhaka,YES
+162,Male,13,Children,1,1,1,Kadamtali,Developed,Other,Dhaka,YES
+163,Female,10,Children,1,1,0,Banasree,Undeveloped,Building,Dhaka,YES
+164,Male,18,Young,1,1,0,Kalabagan,Developed,Building,Dhaka,YES
+165,Female,9,Children,1,1,0,Bosila,Undeveloped,Tinshed,Dhaka,YES
+166,Female,63,Old,0,0,1,Lalbagh,Developed,Tinshed,Dhaka,NO
+167,Male,36,Middle Age,1,1,0,Dhanmondi,Undeveloped,Building,Dhaka,YES
+168,Male,15,Children,0,0,1,Bosila,Developed,Building,Dhaka,NO
+169,Male,30,Young,0,0,0,Paltan,Undeveloped,Other,Dhaka,NO
+170,Female,40,Middle Age,1,1,0,Adabor,Developed,Building,Dhaka,YES
+171,Male,45,Middle Age,1,1,0,Paltan,Undeveloped,Tinshed,Dhaka,YES
+172,Female,14,Children,0,0,1,Kalabagan,Developed,Other,Dhaka,NO
+173,Female,9,Children,1,1,0,Dhanmondi,Undeveloped,Tinshed,Dhaka,YES
+174,Female,42,Middle Age,0,0,1,Gulshan,Developed,Other,Dhaka,NO
+175,Female,17,Young,0,0,0,Sher-e-Bangla Nagar,Undeveloped,Building,Dhaka,NO
+176,Female,49,Middle Age,0,0,0,Ramna,Developed,Building,Dhaka,NO
+177,Male,14,Children,0,0,0,Kadamtali,Undeveloped,Other,Dhaka,NO
+178,Female,41,Middle Age,0,0,0,Kamrangirchar,Developed,Building,Dhaka,NO
+179,Female,27,Young,1,1,1,Khilgaon,Undeveloped,Other,Dhaka,YES
+180,Male,38,Middle Age,1,1,0,Kadamtali,Developed,Building,Dhaka,YES
+181,Female,14,Children,1,1,0,Rampura,Undeveloped,Other,Dhaka,YES
+182,Male,28,Young,0,0,1,Kadamtali,Developed,Tinshed,Dhaka,NO
+183,Male,35,Middle Age,1,1,1,Khilgaon,Undeveloped,Building,Dhaka,YES
+184,Male,59,Old,0,0,1,Khilgaon,Developed,Building,Dhaka,NO
+185,Female,58,Old,1,1,1,Lalbagh,Undeveloped,Building,Dhaka,YES
+186,Male,40,Middle Age,0,0,1,Tejgaon,Developed,Building,Dhaka,NO
+187,Male,25,Young,0,0,1,Paltan,Undeveloped,Tinshed,Dhaka,NO
+188,Male,63,Old,0,0,1,Sabujbagh,Developed,Other,Dhaka,NO
+189,Female,48,Middle Age,1,1,0,Sutrapur,Undeveloped,Building,Dhaka,YES
+190,Male,15,Children,1,1,1,Pallabi,Developed,Tinshed,Dhaka,YES
+191,Male,60,Old,0,0,1,Khilkhet,Undeveloped,Other,Dhaka,NO
+192,Female,13,Children,0,0,1,Demra,Developed,Tinshed,Dhaka,NO
+193,Female,58,Old,0,0,1,Adabor,Undeveloped,Tinshed,Dhaka,NO
+194,Male,53,Old,1,1,1,Dhanmondi,Developed,Other,Dhaka,YES
+195,Male,61,Old,1,1,1,Khilkhet,Undeveloped,Tinshed,Dhaka,YES
+196,Female,44,Middle Age,0,0,1,Khilkhet,Developed,Other,Dhaka,NO
+197,Female,40,Middle Age,0,0,0,Tejgaon,Undeveloped,Tinshed,Dhaka,NO
+198,Male,49,Middle Age,0,0,0,Dhanmondi,Developed,Tinshed,Dhaka,NO
+199,Male,56,Old,1,1,0,Mohammadpur,Undeveloped,Building,Dhaka,YES
+200,Female,28,Young,0,0,1,Kadamtali,Developed,Building,Dhaka,NO
+201,Male,40,Middle Age,0,0,0,Gulshan,Undeveloped,Tinshed,Dhaka,NO
+202,Male,25,Young,1,1,0,Khilgaon,Developed,Tinshed,Dhaka,YES
+203,Female,52,Old,0,0,0,Paltan,Undeveloped,Building,Dhaka,NO
+204,Female,60,Old,0,0,0,Demra,Developed,Other,Dhaka,NO
+205,Female,59,Old,0,0,1,Kalabagan,Undeveloped,Building,Dhaka,NO
+206,Female,35,Middle Age,1,1,0,Biman Bandar,Developed,Building,Dhaka,YES
+207,Female,48,Middle Age,1,1,1,Tejgaon,Undeveloped,Other,Dhaka,YES
+208,Male,31,Middle Age,1,1,1,Paltan,Developed,Other,Dhaka,YES
+209,Male,33,Middle Age,1,1,0,Hazaribagh,Undeveloped,Tinshed,Dhaka,YES
+210,Female,39,Middle Age,1,1,1,New Market,Developed,Building,Dhaka,YES
+211,Male,34,Middle Age,0,0,0,Badda,Undeveloped,Other,Dhaka,NO
+212,Female,33,Middle Age,1,1,1,Kadamtali,Developed,Other,Dhaka,YES
+213,Female,18,Young,0,1,1,Kadamtali,Undeveloped,Tinshed,Dhaka,YES
+214,Female,43,Middle Age,1,1,1,Jatrabari,Developed,Other,Dhaka,YES
+215,Male,61,Old,0,0,1,Kafrul,Undeveloped,Building,Dhaka,NO
+216,Female,46,Middle Age,0,0,0,Gendaria,Developed,Other,Dhaka,NO
+217,Male,59,Old,1,1,1,Shyampur,Undeveloped,Other,Dhaka,YES
+218,Female,55,Old,1,1,1,Shahbagh,Developed,Building,Dhaka,YES
+219,Male,25,Young,0,0,1,Mirpur,Undeveloped,Tinshed,Dhaka,NO
+220,Female,53,Old,0,0,1,Jatrabari,Developed,Tinshed,Dhaka,NO
+221,Female,32,Middle Age,1,1,0,Gulshan,Undeveloped,Building,Dhaka,YES
+222,Male,40,Middle Age,1,1,1,Demra,Developed,Other,Dhaka,YES
+223,Male,57,Old,1,1,1,Biman Bandar,Undeveloped,Building,Dhaka,YES
+224,Male,43,Middle Age,0,0,1,Shyampur,Developed,Other,Dhaka,NO
+225,Male,43,Middle Age,0,0,1,Hazaribagh,Undeveloped,Building,Dhaka,NO
+226,Male,57,Old,0,0,0,Banasree,Developed,Building,Dhaka,NO
+227,Female,55,Old,1,1,1,Chawkbazar,Undeveloped,Other,Dhaka,YES
+228,Female,16,Young,1,1,0,Khilgaon,Developed,Building,Dhaka,YES
+229,Male,25,Young,0,0,1,Bosila,Undeveloped,Other,Dhaka,NO
+230,Female,28,Young,1,1,0,Khilgaon,Developed,Other,Dhaka,YES
+231,Female,41,Middle Age,0,0,0,Rampura,Undeveloped,Other,Dhaka,NO
+232,Male,52,Old,1,1,1,Bangshal,Developed,Other,Dhaka,YES
+233,Male,46,Middle Age,1,1,0,Adabor,Undeveloped,Tinshed,Dhaka,YES
+234,Female,55,Old,0,0,1,Ramna,Developed,Building,Dhaka,NO
+235,Female,53,Old,1,1,1,Sher-e-Bangla Nagar,Undeveloped,Tinshed,Dhaka,YES
+236,Female,42,Middle Age,1,1,0,Khilkhet,Developed,Other,Dhaka,YES
+237,Female,30,Young,0,0,0,Kadamtali,Undeveloped,Building,Dhaka,NO
+238,Female,18,Young,1,1,0,Kadamtali,Developed,Tinshed,Dhaka,YES
+239,Female,44,Middle Age,0,0,1,Keraniganj,Undeveloped,Building,Dhaka,NO
+240,Female,21,Young,1,1,1,Gulshan,Developed,Tinshed,Dhaka,YES
+241,Male,56,Old,0,0,0,Mohammadpur,Undeveloped,Building,Dhaka,NO
+242,Male,50,Middle Age,1,1,0,Tejgaon,Developed,Building,Dhaka,YES
+243,Female,12,Children,1,1,0,Badda,Undeveloped,Tinshed,Dhaka,YES
+244,Male,43,Middle Age,0,0,0,Dhanmondi,Developed,Other,Dhaka,NO
+245,Female,42,Middle Age,1,1,0,Mohammadpur,Undeveloped,Building,Dhaka,YES
+246,Female,38,Middle Age,0,1,0,Jatrabari,Developed,Other,Dhaka,YES
+247,Male,62,Old,1,1,0,Demra,Undeveloped,Tinshed,Dhaka,YES
+248,Female,32,Middle Age,0,0,0,Khilkhet,Developed,Tinshed,Dhaka,NO
+249,Male,19,Young,1,1,0,Kadamtali,Undeveloped,Building,Dhaka,YES
+250,Female,19,Young,1,1,1,Kafrul,Developed,Other,Dhaka,YES
+251,Male,40,Middle Age,1,1,1,Sabujbagh,Undeveloped,Other,Dhaka,YES
+252,Female,10,Children,0,0,1,Mohammadpur,Developed,Tinshed,Dhaka,NO
+253,Female,20,Young,0,0,0,New Market,Undeveloped,Tinshed,Dhaka,NO
+254,Male,26,Young,0,0,0,Sher-e-Bangla Nagar,Developed,Other,Dhaka,NO
+255,Male,29,Young,0,0,0,Hazaribagh,Undeveloped,Tinshed,Dhaka,NO
+256,Male,39,Middle Age,1,1,1,Shahbagh,Developed,Other,Dhaka,YES
+257,Female,65,Old,1,1,1,Sutrapur,Undeveloped,Other,Dhaka,YES
+258,Female,38,Middle Age,0,0,1,Khilkhet,Developed,Other,Dhaka,NO
+259,Male,14,Children,0,0,0,Khilkhet,Undeveloped,Tinshed,Dhaka,NO
+260,Female,62,Old,0,0,0,Kafrul,Developed,Tinshed,Dhaka,NO
+261,Female,37,Middle Age,0,0,1,Sabujbagh,Undeveloped,Other,Dhaka,NO
+262,Female,25,Young,1,1,1,Banasree,Developed,Tinshed,Dhaka,YES
+263,Female,64,Old,1,1,0,Kadamtali,Undeveloped,Tinshed,Dhaka,YES
+264,Female,51,Old,1,1,1,Jatrabari,Developed,Other,Dhaka,YES
+265,Female,11,Children,0,0,1,Mirpur,Undeveloped,Building,Dhaka,NO
+266,Male,20,Young,1,1,1,Hazaribagh,Developed,Building,Dhaka,YES
+267,Male,8,Children,0,0,0,Keraniganj,Undeveloped,Tinshed,Dhaka,NO
+268,Male,27,Young,1,1,1,Demra,Developed,Tinshed,Dhaka,YES
+269,Female,44,Middle Age,1,1,1,Motijheel,Undeveloped,Building,Dhaka,YES
+270,Female,28,Young,1,1,0,Dhanmondi,Developed,Tinshed,Dhaka,YES
+271,Male,38,Middle Age,0,0,0,Biman Bandar,Undeveloped,Tinshed,Dhaka,NO
+272,Male,27,Young,0,0,0,Kadamtali,Developed,Tinshed,Dhaka,NO
+273,Male,36,Middle Age,1,1,0,Khilkhet,Undeveloped,Building,Dhaka,YES
+274,Female,65,Old,0,0,1,Paltan,Developed,Building,Dhaka,NO
+275,Female,38,Middle Age,1,1,0,Kamrangirchar,Undeveloped,Other,Dhaka,YES
+276,Female,42,Middle Age,1,1,0,Sher-e-Bangla Nagar,Developed,Building,Dhaka,YES
+277,Male,10,Children,1,1,1,Tejgaon,Undeveloped,Building,Dhaka,YES
+278,Male,44,Middle Age,0,0,0,Sutrapur,Developed,Tinshed,Dhaka,NO
+279,Male,19,Young,1,1,1,Badda,Undeveloped,Other,Dhaka,YES
+280,Male,18,Young,1,1,1,Biman Bandar,Developed,Other,Dhaka,YES
+281,Male,29,Young,0,0,1,Gulshan,Undeveloped,Other,Dhaka,NO
+282,Male,58,Old,1,1,1,Khilkhet,Developed,Other,Dhaka,YES
+283,Female,45,Middle Age,1,1,1,Mohammadpur,Undeveloped,Other,Dhaka,YES
+284,Female,40,Middle Age,1,1,0,Gulshan,Developed,Other,Dhaka,YES
+285,Female,20,Young,0,0,0,Badda,Undeveloped,Building,Dhaka,NO
+286,Male,41,Middle Age,0,0,0,Adabor,Developed,Building,Dhaka,NO
+287,Male,23,Young,1,1,0,Badda,Undeveloped,Building,Dhaka,YES
+288,Male,29,Young,0,0,0,Rampura,Developed,Building,Dhaka,NO
+289,Male,48,Middle Age,1,1,1,Ramna,Undeveloped,Building,Dhaka,YES
+290,Female,17,Young,0,0,0,Kadamtali,Developed,Building,Dhaka,NO
+291,Female,62,Old,0,0,0,Motijheel,Undeveloped,Tinshed,Dhaka,NO
+292,Female,34,Middle Age,1,1,0,Motijheel,Developed,Tinshed,Dhaka,YES
+293,Female,8,Children,1,1,0,Paltan,Undeveloped,Tinshed,Dhaka,YES
+294,Male,22,Young,0,0,0,Gendaria,Developed,Building,Dhaka,NO
+295,Male,23,Young,0,0,1,Keraniganj,Undeveloped,Other,Dhaka,NO
+296,Male,47,Middle Age,0,0,0,Shyampur,Developed,Tinshed,Dhaka,NO
+297,Male,50,Middle Age,0,0,1,Gulshan,Undeveloped,Tinshed,Dhaka,NO
+298,Male,15,Children,0,0,0,Demra,Developed,Building,Dhaka,NO
+299,Male,11,Children,1,1,0,Kadamtali,Undeveloped,Tinshed,Dhaka,YES
+300,Female,46,Middle Age,1,1,0,Bosila,Developed,Building,Dhaka,YES
+301,Female,52,Old,1,1,0,Bangshal,Undeveloped,Tinshed,Dhaka,YES
+302,Male,44,Middle Age,0,0,1,Sutrapur,Developed,Tinshed,Dhaka,NO
+303,Male,12,Children,0,0,1,Bangshal,Undeveloped,Other,Dhaka,NO
+304,Female,30,Young,0,0,0,Dhanmondi,Developed,Building,Dhaka,NO
+305,Male,41,Middle Age,0,0,0,Pallabi,Undeveloped,Other,Dhaka,NO
+306,Male,62,Old,1,1,0,Dhanmondi,Developed,Tinshed,Dhaka,YES
+307,Male,42,Middle Age,1,1,0,Cantonment,Undeveloped,Other,Dhaka,YES
+308,Female,38,Middle Age,1,1,0,Dhanmondi,Developed,Building,Dhaka,YES
+309,Male,46,Middle Age,0,0,0,Keraniganj,Undeveloped,Tinshed,Dhaka,NO
+310,Male,44,Middle Age,0,0,0,Demra,Developed,Other,Dhaka,NO
+311,Female,48,Middle Age,1,1,0,Mohammadpur,Undeveloped,Other,Dhaka,YES
+312,Male,42,Middle Age,0,0,1,Jatrabari,Developed,Building,Dhaka,NO
+313,Male,41,Middle Age,1,1,0,Mirpur,Undeveloped,Tinshed,Dhaka,YES
+314,Male,15,Children,0,0,0,Banasree,Developed,Tinshed,Dhaka,NO
+315,Male,15,Children,1,1,1,Bosila,Undeveloped,Other,Dhaka,YES
+316,Male,64,Old,0,0,1,Bosila,Developed,Building,Dhaka,NO
+317,Male,16,Young,1,1,0,Gulshan,Undeveloped,Building,Dhaka,YES
+318,Male,19,Young,1,1,0,Kamrangirchar,Developed,Building,Dhaka,YES
+319,Male,56,Old,0,0,0,Rampura,Undeveloped,Building,Dhaka,NO
+320,Female,65,Old,1,1,1,Demra,Developed,Tinshed,Dhaka,YES
+321,Male,57,Old,1,1,1,Rampura,Undeveloped,Tinshed,Dhaka,YES
+322,Male,24,Young,0,0,0,Gendaria,Developed,Tinshed,Dhaka,NO
+323,Male,38,Middle Age,0,0,1,Rampura,Undeveloped,Other,Dhaka,NO
+324,Female,39,Middle Age,0,0,1,Shyampur,Developed,Tinshed,Dhaka,NO
+325,Female,64,Old,0,0,0,Banasree,Undeveloped,Tinshed,Dhaka,NO
+326,Male,39,Middle Age,1,1,1,Motijheel,Developed,Building,Dhaka,YES
+327,Male,33,Middle Age,1,1,0,Adabor,Undeveloped,Other,Dhaka,YES
+328,Male,49,Middle Age,1,1,0,Motijheel,Developed,Building,Dhaka,YES
+329,Female,22,Young,1,1,1,Bangshal,Undeveloped,Tinshed,Dhaka,YES
+330,Female,29,Young,0,0,0,Kamrangirchar,Developed,Building,Dhaka,NO
+331,Female,22,Young,1,1,0,Kafrul,Undeveloped,Building,Dhaka,YES
+332,Female,13,Children,1,1,0,Keraniganj,Developed,Other,Dhaka,YES
+333,Female,11,Children,1,1,0,Kadamtali,Undeveloped,Building,Dhaka,YES
+334,Male,41,Middle Age,1,1,1,Khilkhet,Developed,Building,Dhaka,YES
+335,Male,61,Old,1,1,1,Hazaribagh,Undeveloped,Other,Dhaka,YES
+336,Male,60,Old,0,0,1,Mirpur,Developed,Tinshed,Dhaka,NO
+337,Female,21,Young,1,1,0,Mirpur,Undeveloped,Building,Dhaka,YES
+338,Female,25,Young,1,1,1,Kamrangirchar,Developed,Tinshed,Dhaka,YES
+339,Female,57,Old,1,1,0,Lalbagh,Undeveloped,Tinshed,Dhaka,YES
+340,Male,22,Young,1,1,1,Dhanmondi,Developed,Building,Dhaka,YES
+341,Male,9,Children,1,1,0,Mohammadpur,Undeveloped,Other,Dhaka,YES
+342,Male,56,Old,0,0,1,Kadamtali,Developed,Other,Dhaka,NO
+343,Female,44,Middle Age,1,1,0,Keraniganj,Undeveloped,Building,Dhaka,YES
+344,Female,59,Old,1,1,0,Bosila,Developed,Building,Dhaka,YES
+345,Female,40,Middle Age,0,0,0,Gulshan,Undeveloped,Building,Dhaka,NO
+346,Female,64,Old,1,1,0,Jatrabari,Developed,Tinshed,Dhaka,YES
+347,Male,62,Old,1,1,0,Lalbagh,Undeveloped,Other,Dhaka,YES
+348,Female,40,Middle Age,1,1,1,Gendaria,Developed,Building,Dhaka,YES
+349,Female,26,Young,1,1,1,Sutrapur,Undeveloped,Tinshed,Dhaka,YES
+350,Male,47,Middle Age,1,1,1,Ramna,Developed,Building,Dhaka,YES
+351,Male,56,Old,0,0,0,Bangshal,Undeveloped,Other,Dhaka,NO
+352,Female,19,Young,1,1,1,Khilkhet,Developed,Other,Dhaka,YES
+353,Male,17,Young,0,0,1,Motijheel,Undeveloped,Building,Dhaka,NO
+354,Female,57,Old,1,1,0,Biman Bandar,Developed,Building,Dhaka,YES
+355,Male,47,Middle Age,1,1,1,Kafrul,Undeveloped,Tinshed,Dhaka,YES
+356,Male,44,Middle Age,1,1,0,Jatrabari,Developed,Building,Dhaka,YES
+357,Female,18,Young,0,0,0,Paltan,Undeveloped,Building,Dhaka,NO
+358,Male,44,Middle Age,1,1,0,Demra,Developed,Tinshed,Dhaka,YES
+359,Female,20,Young,1,1,1,Rampura,Undeveloped,Building,Dhaka,YES
+360,Female,60,Old,0,0,1,Sabujbagh,Developed,Other,Dhaka,NO
+361,Male,61,Old,0,0,0,Keraniganj,Undeveloped,Other,Dhaka,NO
+362,Female,47,Middle Age,0,0,0,Ramna,Developed,Other,Dhaka,NO
+363,Female,15,Children,1,1,1,Pallabi,Undeveloped,Tinshed,Dhaka,YES
+364,Male,58,Old,0,0,1,Kamrangirchar,Developed,Other,Dhaka,NO
+365,Male,64,Old,0,0,0,Kamrangirchar,Undeveloped,Building,Dhaka,NO
+366,Female,50,Middle Age,1,1,1,Badda,Developed,Tinshed,Dhaka,YES
+367,Female,52,Old,1,1,1,Bangshal,Undeveloped,Building,Dhaka,YES
+368,Male,59,Old,1,1,0,Gendaria,Developed,Tinshed,Dhaka,YES
+369,Female,51,Old,0,0,1,Demra,Undeveloped,Building,Dhaka,NO
+370,Male,16,Young,0,0,1,Mohammadpur,Developed,Building,Dhaka,NO
+371,Female,20,Young,0,0,1,Shahbagh,Undeveloped,Building,Dhaka,NO
+372,Male,48,Middle Age,1,1,1,Kafrul,Developed,Tinshed,Dhaka,YES
+373,Male,31,Middle Age,0,0,0,New Market,Undeveloped,Tinshed,Dhaka,NO
+374,Male,53,Old,1,1,1,Jatrabari,Developed,Other,Dhaka,YES
+375,Female,42,Middle Age,1,1,0,Pallabi,Undeveloped,Building,Dhaka,YES
+376,Female,9,Children,1,1,1,Khilgaon,Developed,Building,Dhaka,YES
+377,Female,8,Children,1,1,1,Dhanmondi,Undeveloped,Other,Dhaka,YES
+378,Female,17,Young,0,0,1,Dhanmondi,Developed,Building,Dhaka,NO
+379,Female,16,Young,1,1,0,New Market,Undeveloped,Tinshed,Dhaka,YES
+380,Female,15,Children,1,1,1,Banasree,Developed,Other,Dhaka,YES
+381,Female,63,Old,0,0,1,Motijheel,Undeveloped,Building,Dhaka,NO
+382,Male,35,Middle Age,1,1,1,Demra,Developed,Other,Dhaka,YES
+383,Male,51,Old,0,0,0,Demra,Undeveloped,Building,Dhaka,NO
+384,Male,33,Middle Age,0,0,0,Shyampur,Developed,Other,Dhaka,NO
+385,Female,17,Young,1,1,1,Kadamtali,Undeveloped,Other,Dhaka,YES
+386,Female,50,Middle Age,0,0,1,Lalbagh,Developed,Building,Dhaka,NO
+387,Female,34,Middle Age,1,1,1,Cantonment,Undeveloped,Building,Dhaka,YES
+388,Female,26,Young,1,1,1,Bangshal,Developed,Tinshed,Dhaka,YES
+389,Female,25,Young,0,0,1,Tejgaon,Undeveloped,Other,Dhaka,NO
+390,Male,58,Old,0,0,0,Dhanmondi,Developed,Tinshed,Dhaka,NO
+391,Female,29,Young,1,1,1,Sabujbagh,Undeveloped,Other,Dhaka,YES
+392,Male,38,Middle Age,0,0,0,Banasree,Developed,Tinshed,Dhaka,NO
+393,Female,17,Young,1,1,0,Demra,Undeveloped,Building,Dhaka,YES
+394,Female,59,Old,0,0,1,Motijheel,Developed,Building,Dhaka,NO
+395,Female,22,Young,0,0,1,Ramna,Undeveloped,Tinshed,Dhaka,NO
+396,Female,18,Young,1,1,0,Dhanmondi,Developed,Other,Dhaka,YES
+397,Female,45,Middle Age,0,0,0,Khilkhet,Undeveloped,Tinshed,Dhaka,NO
+398,Female,9,Children,1,1,0,Lalbagh,Developed,Tinshed,Dhaka,YES
+399,Male,50,Middle Age,0,0,1,Paltan,Undeveloped,Other,Dhaka,NO
+400,Female,50,Middle Age,1,1,0,Bosila,Developed,Tinshed,Dhaka,YES
+401,Male,14,Children,0,0,0,Sutrapur,Undeveloped,Building,Dhaka,NO
+402,Female,40,Middle Age,0,0,1,Mirpur,Developed,Other,Dhaka,NO
+403,Female,62,Old,0,0,1,Chawkbazar,Undeveloped,Building,Dhaka,NO
+404,Female,40,Middle Age,1,1,1,Chawkbazar,Developed,Other,Dhaka,YES
+405,Male,24,Young,0,0,1,Sher-e-Bangla Nagar,Undeveloped,Tinshed,Dhaka,NO
+406,Male,21,Young,0,0,1,Bangshal,Developed,Other,Dhaka,NO
+407,Male,62,Old,1,1,0,Mohammadpur,Undeveloped,Other,Dhaka,YES
+408,Male,16,Young,1,1,1,Chawkbazar,Developed,Building,Dhaka,YES
+409,Male,11,Children,0,0,0,Biman Bandar,Undeveloped,Building,Dhaka,NO
+410,Male,30,Young,1,1,0,Chawkbazar,Developed,Other,Dhaka,YES
+411,Male,55,Old,0,0,0,Shahbagh,Undeveloped,Tinshed,Dhaka,NO
+412,Male,24,Young,0,0,1,Hazaribagh,Developed,Other,Dhaka,NO
+413,Female,54,Old,0,0,1,Khilgaon,Undeveloped,Other,Dhaka,NO
+414,Male,29,Young,1,1,0,Demra,Developed,Tinshed,Dhaka,YES
+415,Female,20,Young,0,0,1,Shahbagh,Undeveloped,Tinshed,Dhaka,NO
+416,Male,57,Old,1,1,1,Cantonment,Developed,Tinshed,Dhaka,YES
+417,Male,62,Old,0,0,1,Keraniganj,Undeveloped,Other,Dhaka,NO
+418,Female,35,Middle Age,0,0,1,Keraniganj,Developed,Tinshed,Dhaka,NO
+419,Female,22,Young,1,1,1,Mirpur,Undeveloped,Other,Dhaka,YES
+420,Male,14,Children,1,1,1,Tejgaon,Developed,Building,Dhaka,YES
+421,Female,40,Middle Age,1,1,0,Keraniganj,Undeveloped,Building,Dhaka,YES
+422,Female,46,Middle Age,1,1,0,Jatrabari,Developed,Other,Dhaka,YES
+423,Female,21,Young,0,0,1,New Market,Undeveloped,Tinshed,Dhaka,NO
+424,Male,38,Middle Age,0,0,1,Bangshal,Developed,Building,Dhaka,NO
+425,Male,23,Young,1,1,1,Kadamtali,Undeveloped,Building,Dhaka,YES
+426,Female,15,Children,0,0,0,Mirpur,Developed,Other,Dhaka,NO
+427,Female,21,Young,0,0,0,Bosila,Undeveloped,Other,Dhaka,NO
+428,Female,31,Middle Age,0,0,0,Shahbagh,Developed,Other,Dhaka,NO
+429,Female,43,Middle Age,1,1,0,Hazaribagh,Undeveloped,Tinshed,Dhaka,YES
+430,Male,29,Young,1,1,0,Badda,Developed,Tinshed,Dhaka,YES
+431,Female,58,Old,0,0,1,Ramna,Undeveloped,Building,Dhaka,NO
+432,Male,27,Young,1,1,0,Keraniganj,Developed,Building,Dhaka,YES
+433,Male,49,Middle Age,0,0,0,New Market,Undeveloped,Building,Dhaka,NO
+434,Male,43,Middle Age,1,1,1,Shahbagh,Developed,Building,Dhaka,YES
+435,Male,42,Middle Age,1,1,0,Gulshan,Undeveloped,Other,Dhaka,YES
+436,Female,18,Young,1,1,0,Tejgaon,Developed,Building,Dhaka,YES
+437,Male,15,Children,1,1,0,Khilgaon,Undeveloped,Tinshed,Dhaka,YES
+438,Male,22,Young,1,1,0,Shahbagh,Developed,Building,Dhaka,YES
+439,Male,31,Middle Age,1,1,0,Badda,Undeveloped,Tinshed,Dhaka,YES
+440,Female,26,Young,0,0,1,Adabor,Developed,Building,Dhaka,NO
+441,Male,11,Children,1,1,1,Mirpur,Undeveloped,Tinshed,Dhaka,YES
+442,Male,47,Middle Age,1,1,1,Mirpur,Developed,Tinshed,Dhaka,YES
+443,Female,20,Young,0,0,1,Hazaribagh,Undeveloped,Building,Dhaka,NO
+444,Male,58,Old,0,0,1,Banasree,Developed,Building,Dhaka,NO
+445,Male,62,Old,1,1,0,Banasree,Undeveloped,Other,Dhaka,YES
+446,Female,27,Young,0,0,1,Badda,Developed,Other,Dhaka,NO
+447,Female,49,Middle Age,1,1,1,Keraniganj,Undeveloped,Tinshed,Dhaka,YES
+448,Female,30,Young,1,1,0,Sutrapur,Developed,Other,Dhaka,YES
+449,Male,61,Old,1,1,1,Gendaria,Undeveloped,Other,Dhaka,YES
+450,Female,31,Middle Age,1,1,1,Cantonment,Developed,Building,Dhaka,YES
+451,Female,64,Old,0,0,1,Motijheel,Undeveloped,Other,Dhaka,NO
+452,Female,37,Middle Age,0,0,1,Kafrul,Developed,Other,Dhaka,NO
+453,Male,45,Middle Age,1,1,0,Rampura,Undeveloped,Other,Dhaka,YES
+454,Male,47,Middle Age,1,1,0,Khilkhet,Developed,Other,Dhaka,YES
+455,Female,34,Middle Age,0,0,0,Bangshal,Undeveloped,Tinshed,Dhaka,NO
+456,Male,37,Middle Age,1,1,1,Gulshan,Developed,Other,Dhaka,YES
+457,Female,17,Young,0,0,0,Sher-e-Bangla Nagar,Undeveloped,Building,Dhaka,NO
+458,Male,38,Middle Age,0,1,0,Mohammadpur,Developed,Building,Dhaka,YES
+459,Female,13,Children,0,0,0,Kalabagan,Undeveloped,Tinshed,Dhaka,NO
+460,Female,52,Old,1,1,1,Khilkhet,Developed,Tinshed,Dhaka,YES
+461,Female,50,Middle Age,0,0,0,Biman Bandar,Undeveloped,Tinshed,Dhaka,NO
+462,Male,35,Middle Age,0,0,0,Shyampur,Developed,Building,Dhaka,NO
+463,Male,14,Children,1,1,1,Tejgaon,Undeveloped,Other,Dhaka,YES
+464,Female,31,Middle Age,0,0,1,Pallabi,Developed,Building,Dhaka,NO
+465,Female,23,Young,1,1,0,Kalabagan,Undeveloped,Tinshed,Dhaka,YES
+466,Male,32,Middle Age,0,0,0,Keraniganj,Developed,Tinshed,Dhaka,NO
+467,Male,39,Middle Age,1,1,0,Gendaria,Undeveloped,Tinshed,Dhaka,YES
+468,Female,53,Old,0,0,0,Banasree,Developed,Building,Dhaka,NO
+469,Male,29,Young,0,0,1,Kalabagan,Undeveloped,Other,Dhaka,NO
+470,Male,51,Old,1,1,1,Hazaribagh,Developed,Other,Dhaka,YES
+471,Male,11,Children,0,0,1,Kamrangirchar,Undeveloped,Other,Dhaka,NO
+472,Female,29,Young,1,1,1,Gulshan,Developed,Building,Dhaka,YES
+473,Male,45,Middle Age,1,1,0,Shyampur,Undeveloped,Building,Dhaka,YES
+474,Male,19,Young,0,0,0,Khilkhet,Developed,Building,Dhaka,NO
+475,Male,24,Young,1,1,0,Tejgaon,Undeveloped,Tinshed,Dhaka,YES
+476,Male,48,Middle Age,0,0,0,Demra,Developed,Building,Dhaka,NO
+477,Female,53,Old,1,1,0,Sutrapur,Undeveloped,Tinshed,Dhaka,YES
+478,Female,33,Middle Age,1,1,0,Sabujbagh,Developed,Tinshed,Dhaka,YES
+479,Male,41,Middle Age,1,1,1,Pallabi,Undeveloped,Tinshed,Dhaka,YES
+480,Female,35,Middle Age,0,0,1,Dhanmondi,Developed,Building,Dhaka,NO
+481,Male,63,Old,0,0,0,Dhanmondi,Undeveloped,Tinshed,Dhaka,NO
+482,Female,54,Old,1,1,0,Jatrabari,Developed,Tinshed,Dhaka,YES
+483,Female,40,Middle Age,1,1,1,Lalbagh,Undeveloped,Tinshed,Dhaka,YES
+484,Female,23,Young,0,0,1,Rampura,Developed,Other,Dhaka,NO
+485,Female,55,Old,0,0,0,Pallabi,Undeveloped,Other,Dhaka,NO
+486,Female,32,Middle Age,0,0,0,Sutrapur,Developed,Other,Dhaka,NO
+487,Male,13,Children,0,0,1,Gendaria,Undeveloped,Tinshed,Dhaka,NO
+488,Male,44,Middle Age,1,1,0,Sabujbagh,Developed,Building,Dhaka,YES
+489,Female,52,Old,0,0,1,Shyampur,Undeveloped,Tinshed,Dhaka,NO
+490,Male,65,Old,0,0,0,Bosila,Developed,Other,Dhaka,NO
+491,Male,55,Old,0,0,0,Ramna,Undeveloped,Other,Dhaka,NO
+492,Female,17,Young,0,0,1,Mirpur,Developed,Other,Dhaka,NO
+493,Female,31,Middle Age,1,1,0,Ramna,Undeveloped,Building,Dhaka,YES
+494,Male,9,Children,1,1,1,Bangshal,Developed,Tinshed,Dhaka,YES
+495,Male,22,Young,1,1,0,Bangshal,Undeveloped,Tinshed,Dhaka,YES
+496,Female,21,Young,1,1,0,Keraniganj,Developed,Other,Dhaka,YES
+497,Female,15,Children,1,1,0,Rampura,Undeveloped,Building,Dhaka,YES
+498,Male,40,Middle Age,1,1,0,Khilkhet,Developed,Tinshed,Dhaka,YES
+499,Female,37,Middle Age,1,1,1,Motijheel,Undeveloped,Building,Dhaka,YES
+500,Male,53,Old,0,0,0,Gendaria,Developed,Other,Dhaka,NO
+501,Female,46,Middle Age,0,0,0,New Market,Undeveloped,Tinshed,Dhaka,NO
+502,Male,9,Children,1,1,1,Adabor,Developed,Other,Dhaka,YES
+503,Male,35,Middle Age,0,0,1,New Market,Undeveloped,Tinshed,Dhaka,NO
+504,Female,18,Young,0,0,1,Biman Bandar,Developed,Other,Dhaka,NO
+505,Female,10,Children,0,0,1,Kamrangirchar,Undeveloped,Other,Dhaka,NO
+506,Female,13,Children,1,1,1,Mirpur,Developed,Tinshed,Dhaka,YES
+507,Female,19,Young,1,1,0,Gulshan,Undeveloped,Tinshed,Dhaka,YES
+508,Male,37,Middle Age,0,0,1,Kalabagan,Developed,Other,Dhaka,NO
+509,Female,40,Middle Age,1,1,0,Khilkhet,Undeveloped,Building,Dhaka,YES
+510,Female,10,Children,0,0,0,Khilkhet,Developed,Tinshed,Dhaka,NO
+511,Female,17,Young,0,0,1,Sher-e-Bangla Nagar,Undeveloped,Other,Dhaka,NO
+512,Female,47,Middle Age,1,1,0,Sutrapur,Developed,Building,Dhaka,YES
+513,Male,51,Old,0,0,0,Badda,Undeveloped,Other,Dhaka,NO
+514,Male,33,Middle Age,1,1,1,Rampura,Developed,Building,Dhaka,YES
+515,Male,51,Old,1,1,1,Dhanmondi,Undeveloped,Other,Dhaka,YES
+516,Female,60,Old,0,0,1,Ramna,Developed,Building,Dhaka,NO
+517,Female,23,Young,0,0,1,Gulshan,Undeveloped,Other,Dhaka,NO
+518,Female,8,Children,0,0,0,Dhanmondi,Developed,Other,Dhaka,NO
+519,Male,52,Old,0,0,1,Mirpur,Undeveloped,Building,Dhaka,NO
+520,Female,10,Children,1,1,1,Sher-e-Bangla Nagar,Developed,Tinshed,Dhaka,YES
+521,Male,22,Young,1,1,0,Sher-e-Bangla Nagar,Undeveloped,Building,Dhaka,YES
+522,Male,23,Young,1,1,0,Kamrangirchar,Developed,Tinshed,Dhaka,YES
+523,Female,13,Children,0,0,1,Khilgaon,Undeveloped,Tinshed,Dhaka,NO
+524,Female,22,Young,0,0,0,Kafrul,Developed,Building,Dhaka,NO
+525,Male,64,Old,1,1,1,Jatrabari,Undeveloped,Building,Dhaka,YES
+526,Female,9,Children,0,0,0,Lalbagh,Developed,Tinshed,Dhaka,NO
+527,Female,26,Young,0,0,0,Lalbagh,Undeveloped,Tinshed,Dhaka,NO
+528,Male,32,Middle Age,0,0,0,Jatrabari,Developed,Tinshed,Dhaka,NO
+529,Female,48,Middle Age,0,0,1,Tejgaon,Undeveloped,Building,Dhaka,NO
+530,Male,48,Middle Age,0,1,0,Mohammadpur,Developed,Other,Dhaka,YES
+531,Female,33,Middle Age,0,0,0,New Market,Undeveloped,Other,Dhaka,NO
+532,Female,36,Middle Age,0,0,0,Banasree,Developed,Other,Dhaka,NO
+533,Female,32,Middle Age,0,0,0,Keraniganj,Undeveloped,Other,Dhaka,NO
+534,Male,53,Old,0,0,0,Motijheel,Developed,Building,Dhaka,NO
+535,Female,9,Children,1,1,0,New Market,Undeveloped,Other,Dhaka,YES
+536,Male,9,Children,1,1,0,Kalabagan,Developed,Building,Dhaka,YES
+537,Male,40,Middle Age,0,0,1,Sher-e-Bangla Nagar,Undeveloped,Building,Dhaka,NO
+538,Female,55,Old,1,1,1,Badda,Developed,Tinshed,Dhaka,YES
+539,Male,34,Middle Age,0,0,1,Bosila,Undeveloped,Tinshed,Dhaka,NO
+540,Female,19,Young,1,1,1,Jatrabari,Developed,Building,Dhaka,YES
+541,Male,48,Middle Age,1,1,1,Cantonment,Undeveloped,Other,Dhaka,YES
+542,Female,30,Young,1,1,0,Mirpur,Developed,Building,Dhaka,YES
+543,Female,27,Young,0,0,0,Tejgaon,Undeveloped,Building,Dhaka,NO
+544,Male,49,Middle Age,0,0,0,Shahbagh,Developed,Other,Dhaka,NO
+545,Female,28,Young,0,0,1,Kamrangirchar,Undeveloped,Other,Dhaka,NO
+546,Female,29,Young,1,1,1,Sutrapur,Developed,Tinshed,Dhaka,YES
+547,Male,65,Old,1,1,0,Kafrul,Undeveloped,Tinshed,Dhaka,YES
+548,Male,36,Middle Age,0,0,1,Banasree,Developed,Building,Dhaka,NO
+549,Female,55,Old,1,1,0,Pallabi,Undeveloped,Building,Dhaka,YES
+550,Male,22,Young,0,0,1,Sutrapur,Developed,Building,Dhaka,NO
+551,Male,26,Young,1,1,0,New Market,Undeveloped,Tinshed,Dhaka,YES
+552,Male,31,Middle Age,1,1,0,Bangshal,Developed,Tinshed,Dhaka,YES
+553,Female,50,Middle Age,0,0,0,Keraniganj,Undeveloped,Building,Dhaka,NO
+554,Male,25,Young,0,0,0,Biman Bandar,Developed,Tinshed,Dhaka,NO
+555,Female,34,Middle Age,1,1,0,New Market,Undeveloped,Building,Dhaka,YES
+556,Female,54,Old,0,0,0,Mirpur,Developed,Tinshed,Dhaka,NO
+557,Female,35,Middle Age,1,1,0,Hazaribagh,Undeveloped,Building,Dhaka,YES
+558,Male,29,Young,1,1,1,Mohammadpur,Developed,Building,Dhaka,YES
+559,Female,18,Young,1,1,0,Keraniganj,Undeveloped,Other,Dhaka,YES
+560,Female,12,Children,1,1,1,Khilgaon,Developed,Tinshed,Dhaka,YES
+561,Female,19,Young,0,0,0,Sabujbagh,Undeveloped,Other,Dhaka,NO
+562,Female,38,Middle Age,1,1,0,Pallabi,Developed,Other,Dhaka,YES
+563,Male,46,Middle Age,0,0,0,Sutrapur,Undeveloped,Other,Dhaka,NO
+564,Female,9,Children,1,1,0,Sher-e-Bangla Nagar,Developed,Building,Dhaka,YES
+565,Female,42,Middle Age,1,1,1,Kalabagan,Undeveloped,Building,Dhaka,YES
+566,Male,23,Young,0,0,1,Paltan,Developed,Building,Dhaka,NO
+567,Female,45,Middle Age,1,1,1,Paltan,Undeveloped,Building,Dhaka,YES
+568,Female,29,Young,1,1,1,Paltan,Developed,Building,Dhaka,YES
+569,Male,31,Middle Age,1,1,1,Gulshan,Undeveloped,Tinshed,Dhaka,YES
+570,Male,34,Middle Age,0,0,0,Biman Bandar,Developed,Tinshed,Dhaka,NO
+571,Female,61,Old,1,1,1,Khilgaon,Undeveloped,Tinshed,Dhaka,YES
+572,Female,26,Young,1,1,1,Sabujbagh,Developed,Tinshed,Dhaka,YES
+573,Female,52,Old,0,0,0,Biman Bandar,Undeveloped,Other,Dhaka,NO
+574,Female,24,Young,0,0,0,Kafrul,Developed,Tinshed,Dhaka,NO
+575,Male,19,Young,0,0,1,Ramna,Undeveloped,Building,Dhaka,NO
+576,Female,47,Middle Age,1,1,0,Tejgaon,Developed,Tinshed,Dhaka,YES
+577,Female,14,Children,1,1,1,Mohammadpur,Undeveloped,Tinshed,Dhaka,YES
+578,Male,62,Old,1,1,0,Ramna,Developed,Tinshed,Dhaka,YES
+579,Male,53,Old,1,1,1,Mirpur,Undeveloped,Tinshed,Dhaka,YES
+580,Male,49,Middle Age,0,0,1,Keraniganj,Developed,Tinshed,Dhaka,NO
+581,Female,51,Old,0,0,1,Shahbagh,Undeveloped,Building,Dhaka,NO
+582,Female,61,Old,0,0,0,Kamrangirchar,Developed,Building,Dhaka,NO
+583,Female,35,Middle Age,1,1,0,Kamrangirchar,Undeveloped,Building,Dhaka,YES
+584,Female,45,Middle Age,0,0,1,Kadamtali,Developed,Tinshed,Dhaka,NO
+585,Male,25,Young,1,1,1,Bangshal,Undeveloped,Building,Dhaka,YES
+586,Female,53,Old,1,1,0,Jatrabari,Developed,Building,Dhaka,YES
+587,Female,37,Middle Age,1,1,0,Gendaria,Undeveloped,Building,Dhaka,YES
+588,Male,25,Young,0,0,1,Rampura,Developed,Building,Dhaka,NO
+589,Male,38,Middle Age,1,1,1,Badda,Undeveloped,Tinshed,Dhaka,YES
+590,Female,50,Middle Age,1,1,0,Rampura,Developed,Other,Dhaka,YES
+591,Male,30,Young,1,1,1,Tejgaon,Undeveloped,Building,Dhaka,YES
+592,Female,20,Young,0,0,0,Chawkbazar,Developed,Building,Dhaka,NO
+593,Male,44,Middle Age,1,1,0,Kalabagan,Undeveloped,Other,Dhaka,YES
+594,Female,57,Old,0,0,1,Demra,Developed,Building,Dhaka,NO
+595,Male,19,Young,1,1,1,Adabor,Undeveloped,Other,Dhaka,YES
+596,Female,34,Middle Age,0,0,0,Sutrapur,Developed,Other,Dhaka,NO
+597,Female,42,Middle Age,1,1,1,Shyampur,Undeveloped,Other,Dhaka,YES
+598,Female,48,Middle Age,1,1,1,Khilkhet,Developed,Other,Dhaka,YES
+599,Male,45,Middle Age,1,1,1,Mohammadpur,Undeveloped,Building,Dhaka,YES
+600,Female,48,Middle Age,0,0,1,Banasree,Developed,Tinshed,Dhaka,NO
+601,Female,50,Middle Age,1,1,0,New Market,Undeveloped,Other,Dhaka,YES
+602,Female,37,Middle Age,0,0,1,Sher-e-Bangla Nagar,Developed,Building,Dhaka,NO
+603,Female,28,Young,1,1,0,Ramna,Undeveloped,Tinshed,Dhaka,YES
+604,Male,51,Old,1,1,1,Sabujbagh,Developed,Other,Dhaka,YES
+605,Female,37,Middle Age,1,1,1,Jatrabari,Undeveloped,Building,Dhaka,YES
+606,Female,12,Children,0,0,1,Kafrul,Developed,Building,Dhaka,NO
+607,Male,65,Old,1,1,0,Jatrabari,Undeveloped,Other,Dhaka,YES
+608,Female,44,Middle Age,1,1,0,Pallabi,Developed,Building,Dhaka,YES
+609,Male,52,Old,1,1,0,New Market,Undeveloped,Building,Dhaka,YES
+610,Female,10,Children,1,1,1,Demra,Developed,Tinshed,Dhaka,YES
+611,Male,16,Young,1,1,0,Sabujbagh,Undeveloped,Building,Dhaka,YES
+612,Female,17,Young,1,1,0,Badda,Developed,Other,Dhaka,YES
+613,Female,63,Old,0,0,1,Lalbagh,Undeveloped,Other,Dhaka,NO
+614,Female,29,Young,1,1,1,Mirpur,Developed,Other,Dhaka,YES
+615,Male,62,Old,0,0,1,Ramna,Undeveloped,Building,Dhaka,NO
+616,Female,16,Young,0,0,0,Sher-e-Bangla Nagar,Developed,Tinshed,Dhaka,NO
+617,Male,8,Children,0,0,0,Gendaria,Undeveloped,Building,Dhaka,NO
+618,Female,10,Children,1,1,0,Gulshan,Developed,Tinshed,Dhaka,YES
+619,Female,40,Middle Age,1,1,0,Kalabagan,Undeveloped,Tinshed,Dhaka,YES
+620,Female,51,Old,0,0,1,Chawkbazar,Developed,Other,Dhaka,NO
+621,Female,40,Middle Age,1,1,1,Demra,Undeveloped,Building,Dhaka,YES
+622,Female,50,Middle Age,0,0,0,Sher-e-Bangla Nagar,Developed,Other,Dhaka,NO
+623,Male,20,Young,1,1,1,Mirpur,Undeveloped,Tinshed,Dhaka,YES
+624,Female,27,Young,0,0,0,Gendaria,Developed,Other,Dhaka,NO
+625,Female,65,Old,0,0,0,Motijheel,Undeveloped,Tinshed,Dhaka,NO
+626,Female,10,Children,1,1,1,Kadamtali,Developed,Tinshed,Dhaka,YES
+627,Female,33,Middle Age,1,1,1,Motijheel,Undeveloped,Tinshed,Dhaka,YES
+628,Male,20,Young,1,1,1,Motijheel,Developed,Tinshed,Dhaka,YES
+629,Female,44,Middle Age,1,1,1,Sher-e-Bangla Nagar,Undeveloped,Building,Dhaka,YES
+630,Male,62,Old,0,0,0,Sher-e-Bangla Nagar,Developed,Building,Dhaka,NO
+631,Male,62,Old,1,1,0,Kadamtali,Undeveloped,Other,Dhaka,YES
+632,Male,54,Old,1,1,1,Badda,Developed,Building,Dhaka,YES
+633,Male,62,Old,0,0,1,Paltan,Undeveloped,Tinshed,Dhaka,NO
+634,Male,58,Old,1,1,0,Sher-e-Bangla Nagar,Developed,Building,Dhaka,YES
+635,Male,10,Children,1,1,1,Kafrul,Undeveloped,Other,Dhaka,YES
+636,Female,47,Middle Age,0,0,1,Bangshal,Developed,Building,Dhaka,NO
+637,Female,20,Young,0,0,1,Biman Bandar,Undeveloped,Tinshed,Dhaka,NO
+638,Male,60,Old,0,0,1,Biman Bandar,Developed,Building,Dhaka,NO
+639,Female,28,Young,0,0,0,Khilkhet,Undeveloped,Tinshed,Dhaka,NO
+640,Female,21,Young,1,1,1,Rampura,Developed,Building,Dhaka,YES
+641,Female,48,Middle Age,1,1,1,Khilgaon,Undeveloped,Other,Dhaka,YES
+642,Male,45,Middle Age,0,0,0,Kamrangirchar,Developed,Other,Dhaka,NO
+643,Male,23,Young,1,1,0,Tejgaon,Undeveloped,Building,Dhaka,YES
+644,Female,52,Old,0,0,0,Kamrangirchar,Developed,Tinshed,Dhaka,NO
+645,Male,28,Young,1,1,1,Rampura,Undeveloped,Building,Dhaka,YES
+646,Male,19,Young,0,0,0,Kalabagan,Developed,Other,Dhaka,NO
+647,Male,46,Middle Age,1,1,1,Adabor,Undeveloped,Building,Dhaka,YES
+648,Female,61,Old,0,0,0,Gendaria,Developed,Tinshed,Dhaka,NO
+649,Female,32,Middle Age,0,0,0,Paltan,Undeveloped,Building,Dhaka,NO
+650,Male,10,Children,1,1,1,Adabor,Developed,Other,Dhaka,YES
+651,Male,27,Young,1,1,1,New Market,Undeveloped,Other,Dhaka,YES
+652,Female,56,Old,0,0,0,Pallabi,Developed,Building,Dhaka,NO
+653,Male,26,Young,0,0,0,Sutrapur,Undeveloped,Building,Dhaka,NO
+654,Male,15,Children,1,1,0,Gendaria,Developed,Other,Dhaka,YES
+655,Female,10,Children,1,1,1,Gendaria,Undeveloped,Other,Dhaka,YES
+656,Male,24,Young,1,1,1,Adabor,Developed,Tinshed,Dhaka,YES
+657,Female,51,Old,0,0,1,Cantonment,Undeveloped,Tinshed,Dhaka,NO
+658,Female,41,Middle Age,0,0,1,Paltan,Developed,Other,Dhaka,NO
+659,Male,65,Old,1,1,0,Cantonment,Undeveloped,Building,Dhaka,YES
+660,Female,51,Old,0,0,1,Dhanmondi,Developed,Building,Dhaka,NO
+661,Male,18,Young,0,0,0,New Market,Undeveloped,Building,Dhaka,NO
+662,Male,31,Middle Age,0,0,1,Sutrapur,Developed,Building,Dhaka,NO
+663,Male,30,Young,1,1,0,Tejgaon,Undeveloped,Building,Dhaka,YES
+664,Male,14,Children,1,1,1,Demra,Developed,Tinshed,Dhaka,YES
+665,Male,17,Young,1,1,0,New Market,Undeveloped,Other,Dhaka,YES
+666,Male,63,Old,1,1,0,Keraniganj,Developed,Tinshed,Dhaka,YES
+667,Male,49,Middle Age,1,1,0,Chawkbazar,Undeveloped,Building,Dhaka,YES
+668,Female,55,Old,0,0,0,Khilkhet,Developed,Building,Dhaka,NO
+669,Female,17,Young,1,1,0,Bangshal,Undeveloped,Other,Dhaka,YES
+670,Male,17,Young,0,0,1,New Market,Developed,Tinshed,Dhaka,NO
+671,Male,55,Old,1,1,1,Adabor,Undeveloped,Building,Dhaka,YES
+672,Female,57,Old,1,1,0,Banasree,Developed,Other,Dhaka,YES
+673,Male,45,Middle Age,0,0,0,Pallabi,Undeveloped,Tinshed,Dhaka,NO
+674,Female,37,Middle Age,0,0,0,Mohammadpur,Developed,Building,Dhaka,NO
+675,Male,47,Middle Age,1,1,1,Adabor,Undeveloped,Other,Dhaka,YES
+676,Female,49,Middle Age,1,1,1,Shyampur,Developed,Tinshed,Dhaka,YES
+677,Female,32,Middle Age,1,1,0,Kalabagan,Undeveloped,Tinshed,Dhaka,YES
+678,Male,33,Middle Age,1,1,0,Bosila,Developed,Building,Dhaka,YES
+679,Female,25,Young,0,0,0,Adabor,Undeveloped,Other,Dhaka,NO
+680,Male,24,Young,0,0,0,Cantonment,Developed,Building,Dhaka,NO
+681,Male,22,Young,0,0,0,Kadamtali,Undeveloped,Building,Dhaka,NO
+682,Female,52,Old,1,1,1,Motijheel,Developed,Building,Dhaka,YES
+683,Female,16,Young,1,1,0,Kafrul,Undeveloped,Tinshed,Dhaka,YES
+684,Female,19,Young,0,0,0,Dhanmondi,Developed,Building,Dhaka,NO
+685,Female,31,Middle Age,0,0,1,New Market,Undeveloped,Other,Dhaka,NO
+686,Male,46,Middle Age,0,0,1,Keraniganj,Developed,Other,Dhaka,NO
+687,Male,61,Old,1,1,0,Biman Bandar,Undeveloped,Tinshed,Dhaka,YES
+688,Female,35,Middle Age,0,0,0,Biman Bandar,Developed,Tinshed,Dhaka,NO
+689,Female,44,Middle Age,1,1,1,Kafrul,Undeveloped,Other,Dhaka,YES
+690,Female,12,Children,0,0,1,Badda,Developed,Tinshed,Dhaka,NO
+691,Male,51,Old,1,1,0,Pallabi,Undeveloped,Other,Dhaka,YES
+692,Female,33,Middle Age,1,1,1,Mohammadpur,Developed,Other,Dhaka,YES
+693,Female,53,Old,1,1,1,Jatrabari,Undeveloped,Building,Dhaka,YES
+694,Male,22,Young,0,0,0,Hazaribagh,Developed,Tinshed,Dhaka,NO
+695,Male,32,Middle Age,0,0,0,Kamrangirchar,Undeveloped,Other,Dhaka,NO
+696,Male,36,Middle Age,0,0,1,Ramna,Developed,Tinshed,Dhaka,NO
+697,Female,14,Children,0,0,0,New Market,Undeveloped,Tinshed,Dhaka,NO
+698,Male,18,Young,1,1,0,Bangshal,Developed,Other,Dhaka,YES
+699,Male,52,Old,1,1,1,Keraniganj,Undeveloped,Building,Dhaka,YES
+700,Female,62,Old,0,0,1,Kalabagan,Developed,Building,Dhaka,NO
+701,Female,41,Middle Age,0,0,1,Keraniganj,Undeveloped,Other,Dhaka,NO
+702,Female,25,Young,0,0,1,Kafrul,Developed,Other,Dhaka,NO
+703,Male,31,Middle Age,1,1,0,Demra,Undeveloped,Other,Dhaka,YES
+704,Female,49,Middle Age,0,0,0,Ramna,Developed,Building,Dhaka,NO
+705,Female,39,Middle Age,1,1,1,Badda,Undeveloped,Other,Dhaka,YES
+706,Female,26,Young,0,0,0,Sher-e-Bangla Nagar,Developed,Other,Dhaka,NO
+707,Male,24,Young,0,0,0,Sabujbagh,Undeveloped,Tinshed,Dhaka,NO
+708,Male,30,Young,0,0,0,Bosila,Developed,Tinshed,Dhaka,NO
+709,Male,20,Young,1,1,1,Pallabi,Undeveloped,Building,Dhaka,YES
+710,Female,50,Middle Age,1,1,1,Sutrapur,Developed,Tinshed,Dhaka,YES
+711,Female,13,Children,1,1,0,Kalabagan,Undeveloped,Other,Dhaka,YES
+712,Male,44,Middle Age,1,1,0,Bosila,Developed,Building,Dhaka,YES
+713,Male,19,Young,1,1,1,Pallabi,Undeveloped,Other,Dhaka,YES
+714,Female,53,Old,1,1,1,Biman Bandar,Developed,Tinshed,Dhaka,YES
+715,Female,12,Children,0,0,0,Khilkhet,Undeveloped,Building,Dhaka,NO
+716,Female,14,Children,0,0,0,Cantonment,Developed,Tinshed,Dhaka,NO
+717,Male,30,Young,1,1,1,Shahbagh,Undeveloped,Building,Dhaka,YES
+718,Female,48,Middle Age,0,0,1,Sutrapur,Developed,Tinshed,Dhaka,NO
+719,Male,31,Middle Age,0,0,0,Sutrapur,Undeveloped,Building,Dhaka,NO
+720,Male,16,Young,1,1,0,Demra,Developed,Building,Dhaka,YES
+721,Male,38,Middle Age,1,1,1,Dhanmondi,Undeveloped,Tinshed,Dhaka,YES
+722,Female,24,Young,1,1,1,Hazaribagh,Developed,Other,Dhaka,YES
+723,Female,28,Young,0,0,1,Kafrul,Undeveloped,Tinshed,Dhaka,NO
+724,Female,52,Old,1,1,0,Kadamtali,Developed,Tinshed,Dhaka,YES
+725,Male,8,Children,1,1,0,Bosila,Undeveloped,Building,Dhaka,YES
+726,Female,54,Old,0,0,0,Mirpur,Developed,Building,Dhaka,NO
+727,Female,9,Children,1,1,1,Kalabagan,Undeveloped,Building,Dhaka,YES
+728,Female,14,Children,1,1,0,Jatrabari,Developed,Other,Dhaka,YES
+729,Female,12,Children,1,1,0,Chawkbazar,Undeveloped,Other,Dhaka,YES
+730,Female,49,Middle Age,0,0,1,Tejgaon,Developed,Other,Dhaka,NO
+731,Male,46,Middle Age,0,0,0,Jatrabari,Undeveloped,Other,Dhaka,NO
+732,Male,35,Middle Age,0,0,1,Demra,Developed,Building,Dhaka,NO
+733,Female,45,Middle Age,1,1,0,New Market,Undeveloped,Building,Dhaka,YES
+734,Male,48,Middle Age,0,0,0,Rampura,Developed,Other,Dhaka,NO
+735,Male,50,Middle Age,0,0,0,Badda,Undeveloped,Other,Dhaka,NO
+736,Male,37,Middle Age,0,0,0,Sher-e-Bangla Nagar,Developed,Building,Dhaka,NO
+737,Female,39,Middle Age,0,0,1,Sabujbagh,Undeveloped,Building,Dhaka,NO
+738,Male,56,Old,1,1,0,Kalabagan,Developed,Building,Dhaka,YES
+739,Female,11,Children,0,0,1,Chawkbazar,Undeveloped,Tinshed,Dhaka,NO
+740,Male,46,Middle Age,1,1,0,Tejgaon,Developed,Building,Dhaka,YES
+741,Female,32,Middle Age,0,0,1,Shahbagh,Undeveloped,Tinshed,Dhaka,NO
+742,Male,65,Old,0,0,0,Khilgaon,Developed,Tinshed,Dhaka,NO
+743,Male,55,Old,1,1,1,Bangshal,Undeveloped,Other,Dhaka,YES
+744,Male,34,Middle Age,0,0,1,Sutrapur,Developed,Other,Dhaka,NO
+745,Male,21,Young,0,0,0,Hazaribagh,Undeveloped,Tinshed,Dhaka,NO
+746,Female,11,Children,0,0,0,New Market,Developed,Other,Dhaka,NO
+747,Male,46,Middle Age,0,0,0,Mohammadpur,Undeveloped,Building,Dhaka,NO
+748,Male,21,Young,1,1,0,Biman Bandar,Developed,Other,Dhaka,YES
+749,Female,61,Old,0,0,0,Dhanmondi,Undeveloped,Tinshed,Dhaka,NO
+750,Male,35,Middle Age,1,1,1,Adabor,Developed,Building,Dhaka,YES
+751,Female,46,Middle Age,1,1,1,Khilkhet,Undeveloped,Tinshed,Dhaka,YES
+752,Female,11,Children,0,0,0,Biman Bandar,Developed,Other,Dhaka,NO
+753,Male,49,Middle Age,1,1,0,Kafrul,Undeveloped,Building,Dhaka,YES
+754,Female,43,Middle Age,1,1,1,Dhanmondi,Developed,Other,Dhaka,YES
+755,Female,49,Middle Age,1,1,0,Cantonment,Undeveloped,Tinshed,Dhaka,YES
+756,Male,46,Middle Age,1,1,0,Demra,Developed,Tinshed,Dhaka,YES
+757,Female,50,Middle Age,0,0,1,Mirpur,Undeveloped,Building,Dhaka,NO
+758,Male,20,Young,0,0,0,Pallabi,Developed,Building,Dhaka,NO
+759,Male,58,Old,1,1,1,Kafrul,Undeveloped,Tinshed,Dhaka,YES
+760,Female,46,Middle Age,0,0,0,Cantonment,Developed,Tinshed,Dhaka,NO
+761,Male,24,Young,0,0,1,Pallabi,Undeveloped,Building,Dhaka,NO
+762,Male,29,Young,0,0,0,Sutrapur,Developed,Other,Dhaka,NO
+763,Male,46,Middle Age,0,0,1,Kadamtali,Undeveloped,Tinshed,Dhaka,NO
+764,Male,42,Middle Age,1,1,1,Gulshan,Developed,Building,Dhaka,YES
+765,Female,56,Old,0,0,0,Sutrapur,Undeveloped,Other,Dhaka,NO
+766,Male,8,Children,0,0,0,Paltan,Developed,Tinshed,Dhaka,NO
+767,Male,13,Children,0,0,0,Hazaribagh,Undeveloped,Building,Dhaka,NO
+768,Male,10,Children,1,1,0,Shahbagh,Developed,Tinshed,Dhaka,YES
+769,Male,34,Middle Age,0,0,1,Rampura,Undeveloped,Other,Dhaka,NO
+770,Female,33,Middle Age,1,1,1,Demra,Developed,Tinshed,Dhaka,YES
+771,Male,43,Middle Age,1,1,0,Ramna,Undeveloped,Other,Dhaka,YES
+772,Female,36,Middle Age,1,1,0,Bangshal,Developed,Other,Dhaka,YES
+773,Female,50,Middle Age,1,1,0,Pallabi,Undeveloped,Other,Dhaka,YES
+774,Male,14,Children,1,1,0,Sabujbagh,Developed,Building,Dhaka,YES
+775,Male,10,Children,0,0,1,Ramna,Undeveloped,Other,Dhaka,NO
+776,Male,50,Middle Age,1,1,0,Biman Bandar,Developed,Other,Dhaka,YES
+777,Male,62,Old,1,1,0,Shahbagh,Undeveloped,Other,Dhaka,YES
+778,Female,11,Children,0,0,0,Bangshal,Developed,Building,Dhaka,NO
+779,Male,40,Middle Age,1,1,1,Tejgaon,Undeveloped,Building,Dhaka,YES
+780,Male,50,Middle Age,1,1,1,Chawkbazar,Developed,Building,Dhaka,YES
+781,Male,17,Young,0,0,0,Badda,Undeveloped,Other,Dhaka,NO
+782,Female,31,Middle Age,1,1,1,Gulshan,Developed,Building,Dhaka,YES
+783,Female,53,Old,1,1,1,Motijheel,Undeveloped,Building,Dhaka,YES
+784,Male,29,Young,0,0,1,Sutrapur,Developed,Other,Dhaka,NO
+785,Female,32,Middle Age,1,1,1,Mohammadpur,Undeveloped,Tinshed,Dhaka,YES
+786,Female,45,Middle Age,0,0,0,Khilgaon,Developed,Other,Dhaka,NO
+787,Male,63,Old,0,0,1,Bosila,Undeveloped,Tinshed,Dhaka,NO
+788,Male,22,Young,1,1,1,Keraniganj,Developed,Other,Dhaka,YES
+789,Male,46,Middle Age,0,0,0,Paltan,Undeveloped,Tinshed,Dhaka,NO
+790,Male,31,Middle Age,1,1,0,Shyampur,Developed,Other,Dhaka,YES
+791,Male,42,Middle Age,1,1,1,Rampura,Undeveloped,Tinshed,Dhaka,YES
+792,Male,54,Old,0,0,0,Kamrangirchar,Developed,Other,Dhaka,NO
+793,Female,27,Young,0,0,1,Ramna,Undeveloped,Other,Dhaka,NO
+794,Male,57,Old,1,1,1,New Market,Developed,Other,Dhaka,YES
+795,Male,46,Middle Age,1,1,1,Jatrabari,Undeveloped,Tinshed,Dhaka,YES
+796,Male,29,Young,0,0,1,Gulshan,Developed,Building,Dhaka,NO
+797,Male,34,Middle Age,1,1,0,Kafrul,Undeveloped,Other,Dhaka,YES
+798,Female,41,Middle Age,1,1,1,Ramna,Developed,Other,Dhaka,YES
+799,Female,10,Children,0,0,1,New Market,Undeveloped,Building,Dhaka,NO
+800,Female,27,Young,1,1,0,Motijheel,Developed,Building,Dhaka,YES
+801,Female,26,Young,1,1,1,Bangshal,Undeveloped,Tinshed,Dhaka,YES
+802,Female,62,Old,1,1,1,Jatrabari,Developed,Other,Dhaka,YES
+803,Male,28,Young,1,1,1,Pallabi,Undeveloped,Other,Dhaka,YES
+804,Male,44,Middle Age,1,1,0,Khilkhet,Developed,Other,Dhaka,YES
+805,Male,39,Middle Age,1,1,1,Bosila,Undeveloped,Building,Dhaka,YES
+806,Female,11,Children,0,0,1,Kadamtali,Developed,Tinshed,Dhaka,NO
+807,Female,51,Old,0,0,1,Tejgaon,Undeveloped,Other,Dhaka,NO
+808,Female,34,Middle Age,1,1,0,Dhanmondi,Developed,Tinshed,Dhaka,YES
+809,Female,17,Young,0,0,0,Banasree,Undeveloped,Building,Dhaka,NO
+810,Female,12,Children,1,1,0,Rampura,Developed,Other,Dhaka,YES
+811,Male,51,Old,0,0,1,Gulshan,Undeveloped,Other,Dhaka,NO
+812,Female,49,Middle Age,0,0,1,Shyampur,Developed,Tinshed,Dhaka,NO
+813,Male,40,Middle Age,1,1,0,Tejgaon,Undeveloped,Other,Dhaka,YES
+814,Male,50,Middle Age,0,0,1,Jatrabari,Developed,Tinshed,Dhaka,NO
+815,Female,31,Middle Age,1,1,1,Sher-e-Bangla Nagar,Undeveloped,Building,Dhaka,YES
+816,Male,49,Middle Age,1,1,1,Tejgaon,Developed,Building,Dhaka,YES
+817,Male,35,Middle Age,1,1,0,Mohammadpur,Undeveloped,Tinshed,Dhaka,YES
+818,Female,16,Young,1,1,0,Badda,Developed,Tinshed,Dhaka,YES
+819,Female,37,Middle Age,0,0,0,Shahbagh,Undeveloped,Other,Dhaka,NO
+820,Female,48,Middle Age,0,0,0,Biman Bandar,Developed,Other,Dhaka,NO
+821,Male,11,Children,0,0,0,Badda,Undeveloped,Tinshed,Dhaka,NO
+822,Male,21,Young,1,1,1,Shyampur,Developed,Other,Dhaka,YES
+823,Male,45,Middle Age,1,1,0,Shyampur,Undeveloped,Other,Dhaka,YES
+824,Male,53,Old,0,0,1,Badda,Developed,Other,Dhaka,NO
+825,Female,13,Children,1,1,1,Demra,Undeveloped,Tinshed,Dhaka,YES
+826,Female,18,Young,0,0,1,Badda,Developed,Building,Dhaka,NO
+827,Male,34,Middle Age,1,1,1,Hazaribagh,Undeveloped,Other,Dhaka,YES
+828,Male,22,Young,0,0,0,Kamrangirchar,Developed,Other,Dhaka,NO
+829,Male,39,Middle Age,1,1,1,Kadamtali,Undeveloped,Other,Dhaka,YES
+830,Male,21,Young,0,0,0,Sutrapur,Developed,Tinshed,Dhaka,NO
+831,Male,64,Old,0,0,0,Paltan,Undeveloped,Building,Dhaka,NO
+832,Female,53,Old,0,0,0,Paltan,Developed,Other,Dhaka,NO
+833,Female,21,Young,1,1,1,Motijheel,Undeveloped,Building,Dhaka,YES
+834,Female,40,Middle Age,1,1,1,Jatrabari,Developed,Building,Dhaka,YES
+835,Male,39,Middle Age,1,1,1,Dhanmondi,Undeveloped,Building,Dhaka,YES
+836,Female,47,Middle Age,1,1,1,Dhanmondi,Developed,Tinshed,Dhaka,YES
+837,Male,52,Old,0,0,1,Mohammadpur,Undeveloped,Other,Dhaka,NO
+838,Female,17,Young,1,1,1,Mohammadpur,Developed,Building,Dhaka,YES
+839,Male,65,Old,0,0,0,Kalabagan,Undeveloped,Tinshed,Dhaka,NO
+840,Male,32,Middle Age,0,0,1,Chawkbazar,Developed,Tinshed,Dhaka,NO
+841,Male,8,Children,1,1,0,Demra,Undeveloped,Building,Dhaka,YES
+842,Female,55,Old,0,0,1,Kamrangirchar,Developed,Building,Dhaka,NO
+843,Male,47,Middle Age,0,0,0,Gulshan,Undeveloped,Other,Dhaka,NO
+844,Male,47,Middle Age,0,0,0,Bosila,Developed,Other,Dhaka,NO
+845,Male,47,Middle Age,0,0,0,Khilgaon,Undeveloped,Building,Dhaka,NO
+846,Female,26,Young,1,1,0,Cantonment,Developed,Other,Dhaka,YES
+847,Male,36,Middle Age,0,0,0,Badda,Undeveloped,Other,Dhaka,NO
+848,Male,45,Middle Age,1,1,0,Tejgaon,Developed,Building,Dhaka,YES
+849,Female,24,Young,0,0,0,Mirpur,Undeveloped,Building,Dhaka,NO
+850,Female,15,Children,0,0,1,Mohammadpur,Developed,Building,Dhaka,NO
+851,Male,32,Middle Age,1,1,0,Badda,Undeveloped,Tinshed,Dhaka,YES
+852,Female,28,Young,1,1,0,Mirpur,Developed,Tinshed,Dhaka,YES
+853,Male,53,Old,1,1,1,Khilgaon,Undeveloped,Building,Dhaka,YES
+854,Male,58,Old,1,1,0,Chawkbazar,Developed,Tinshed,Dhaka,YES
+855,Female,8,Children,0,0,1,Kafrul,Undeveloped,Tinshed,Dhaka,NO
+856,Male,35,Middle Age,0,0,1,Chawkbazar,Developed,Tinshed,Dhaka,NO
+857,Male,44,Middle Age,1,1,1,Khilkhet,Undeveloped,Other,Dhaka,YES
+858,Female,30,Young,1,1,1,Paltan,Developed,Other,Dhaka,YES
+859,Male,16,Young,0,0,1,Keraniganj,Undeveloped,Other,Dhaka,NO
+860,Male,54,Old,1,1,1,Chawkbazar,Developed,Building,Dhaka,YES
+861,Male,54,Old,1,1,1,Sabujbagh,Undeveloped,Tinshed,Dhaka,YES
+862,Male,18,Young,1,1,1,Mirpur,Developed,Building,Dhaka,YES
+863,Female,19,Young,1,1,1,Lalbagh,Undeveloped,Tinshed,Dhaka,YES
+864,Female,47,Middle Age,0,0,1,New Market,Developed,Tinshed,Dhaka,NO
+865,Female,38,Middle Age,0,0,1,New Market,Undeveloped,Other,Dhaka,NO
+866,Male,20,Young,0,0,0,Badda,Developed,Building,Dhaka,NO
+867,Male,65,Old,1,1,0,Mohammadpur,Undeveloped,Tinshed,Dhaka,YES
+868,Female,29,Young,1,1,0,Bangshal,Developed,Building,Dhaka,YES
+869,Female,8,Children,0,0,0,Banasree,Undeveloped,Building,Dhaka,NO
+870,Female,45,Middle Age,1,1,1,Dhanmondi,Developed,Building,Dhaka,YES
+871,Female,9,Children,1,1,0,Hazaribagh,Undeveloped,Building,Dhaka,YES
+872,Male,27,Young,0,0,0,Cantonment,Developed,Building,Dhaka,NO
+873,Male,59,Old,1,1,1,Khilkhet,Undeveloped,Other,Dhaka,YES
+874,Female,16,Young,1,1,0,Paltan,Developed,Tinshed,Dhaka,YES
+875,Female,8,Children,0,0,0,Rampura,Undeveloped,Other,Dhaka,NO
+876,Female,36,Middle Age,1,1,0,Cantonment,Developed,Tinshed,Dhaka,YES
+877,Male,38,Middle Age,0,0,1,Ramna,Undeveloped,Building,Dhaka,NO
+878,Female,56,Old,1,1,1,Kamrangirchar,Developed,Building,Dhaka,YES
+879,Male,35,Middle Age,1,1,0,Mirpur,Undeveloped,Other,Dhaka,YES
+880,Female,18,Young,1,1,0,Tejgaon,Developed,Tinshed,Dhaka,YES
+881,Female,13,Children,1,1,0,Sutrapur,Undeveloped,Other,Dhaka,YES
+882,Male,23,Young,0,1,0,Mohammadpur,Developed,Building,Dhaka,YES
+883,Female,14,Children,1,1,1,Keraniganj,Undeveloped,Building,Dhaka,YES
+884,Female,21,Young,1,1,0,Kalabagan,Developed,Other,Dhaka,YES
+885,Male,39,Middle Age,1,1,1,Demra,Undeveloped,Other,Dhaka,YES
+886,Female,39,Middle Age,1,1,1,Mirpur,Developed,Building,Dhaka,YES
+887,Male,34,Middle Age,0,0,0,Paltan,Undeveloped,Other,Dhaka,NO
+888,Female,36,Middle Age,1,1,1,Ramna,Developed,Building,Dhaka,YES
+889,Female,43,Middle Age,0,1,0,Sabujbagh,Undeveloped,Tinshed,Dhaka,YES
+890,Male,39,Middle Age,1,1,1,Biman Bandar,Developed,Building,Dhaka,YES
+891,Female,53,Old,1,1,1,Demra,Undeveloped,Other,Dhaka,YES
+892,Male,45,Middle Age,1,1,1,Bangshal,Developed,Tinshed,Dhaka,YES
+893,Female,12,Children,0,0,1,Biman Bandar,Undeveloped,Building,Dhaka,NO
+894,Female,28,Young,1,1,0,Motijheel,Developed,Other,Dhaka,YES
+895,Male,14,Children,1,1,0,Hazaribagh,Undeveloped,Building,Dhaka,YES
+896,Male,10,Children,0,0,0,Rampura,Developed,Building,Dhaka,NO
+897,Male,64,Old,1,1,0,Jatrabari,Undeveloped,Other,Dhaka,YES
+898,Male,8,Children,1,1,0,Jatrabari,Developed,Tinshed,Dhaka,YES
+899,Female,43,Middle Age,0,0,1,Hazaribagh,Undeveloped,Other,Dhaka,NO
+900,Male,16,Young,0,0,0,Lalbagh,Developed,Building,Dhaka,NO
+901,Female,62,Old,1,1,1,Kalabagan,Undeveloped,Tinshed,Dhaka,YES
+902,Female,35,Middle Age,0,0,0,Adabor,Developed,Building,Dhaka,NO
+903,Male,36,Middle Age,0,0,0,Chawkbazar,Undeveloped,Other,Dhaka,NO
+904,Female,15,Children,1,1,0,Shahbagh,Developed,Building,Dhaka,YES
+905,Female,11,Children,1,1,0,Jatrabari,Undeveloped,Building,Dhaka,YES
+906,Male,27,Young,1,1,0,Hazaribagh,Developed,Other,Dhaka,YES
+907,Male,20,Young,0,0,0,Shahbagh,Undeveloped,Other,Dhaka,NO
+908,Male,28,Young,1,1,0,Shyampur,Developed,Tinshed,Dhaka,YES
+909,Male,60,Old,1,1,0,Chawkbazar,Undeveloped,Other,Dhaka,YES
+910,Male,10,Children,1,1,1,Tejgaon,Developed,Other,Dhaka,YES
+911,Female,39,Middle Age,0,0,1,Keraniganj,Undeveloped,Tinshed,Dhaka,NO
+912,Male,52,Old,0,0,1,Rampura,Developed,Tinshed,Dhaka,NO
+913,Female,36,Middle Age,1,1,0,Tejgaon,Undeveloped,Tinshed,Dhaka,YES
+914,Female,39,Middle Age,0,0,0,Gulshan,Developed,Building,Dhaka,NO
+915,Male,13,Children,0,0,1,Banasree,Undeveloped,Other,Dhaka,NO
+916,Female,42,Middle Age,0,0,0,Mirpur,Developed,Tinshed,Dhaka,NO
+917,Male,30,Young,1,1,1,Demra,Undeveloped,Building,Dhaka,YES
+918,Male,33,Middle Age,0,0,0,Hazaribagh,Developed,Tinshed,Dhaka,NO
+919,Female,61,Old,1,1,1,Biman Bandar,Undeveloped,Building,Dhaka,YES
+920,Female,47,Middle Age,1,1,1,New Market,Developed,Building,Dhaka,YES
+921,Female,52,Old,0,0,1,Keraniganj,Undeveloped,Other,Dhaka,NO
+922,Male,59,Old,0,0,1,Khilgaon,Developed,Building,Dhaka,NO
+923,Female,29,Young,0,0,0,Banasree,Undeveloped,Building,Dhaka,NO
+924,Female,50,Middle Age,1,1,1,Bangshal,Developed,Tinshed,Dhaka,YES
+925,Female,56,Old,1,1,0,Banasree,Undeveloped,Building,Dhaka,YES
+926,Male,55,Old,1,1,0,Sutrapur,Developed,Building,Dhaka,YES
+927,Female,44,Middle Age,1,1,1,Adabor,Undeveloped,Building,Dhaka,YES
+928,Male,37,Middle Age,0,0,0,Adabor,Developed,Tinshed,Dhaka,NO
+929,Female,42,Middle Age,0,0,1,Banasree,Undeveloped,Tinshed,Dhaka,NO
+930,Male,8,Children,0,0,1,New Market,Developed,Building,Dhaka,NO
+931,Male,40,Middle Age,0,0,0,Kamrangirchar,Undeveloped,Tinshed,Dhaka,NO
+932,Male,56,Old,0,0,1,Dhanmondi,Developed,Tinshed,Dhaka,NO
+933,Male,60,Old,0,0,1,Jatrabari,Undeveloped,Building,Dhaka,NO
+934,Male,26,Young,0,0,0,Motijheel,Developed,Tinshed,Dhaka,NO
+935,Female,65,Old,1,1,0,Mohammadpur,Undeveloped,Building,Dhaka,YES
+936,Female,33,Middle Age,1,1,1,Tejgaon,Developed,Building,Dhaka,YES
+937,Female,20,Young,0,0,0,Rampura,Undeveloped,Other,Dhaka,NO
+938,Male,20,Young,0,0,0,Cantonment,Developed,Other,Dhaka,NO
+939,Female,54,Old,1,1,0,Kadamtali,Undeveloped,Building,Dhaka,YES
+940,Male,22,Young,1,1,1,Banasree,Developed,Tinshed,Dhaka,YES
+941,Female,16,Young,0,0,0,Paltan,Undeveloped,Tinshed,Dhaka,NO
+942,Female,37,Middle Age,0,0,0,Rampura,Developed,Building,Dhaka,NO
+943,Female,26,Young,0,0,1,Demra,Undeveloped,Tinshed,Dhaka,NO
+944,Female,27,Young,0,0,0,Hazaribagh,Developed,Tinshed,Dhaka,NO
+945,Female,10,Children,0,0,0,Kadamtali,Undeveloped,Building,Dhaka,NO
+946,Female,15,Children,0,0,0,Ramna,Developed,Building,Dhaka,NO
+947,Female,17,Young,0,0,0,Biman Bandar,Undeveloped,Tinshed,Dhaka,NO
+948,Female,61,Old,1,1,1,Mirpur,Developed,Building,Dhaka,YES
+949,Male,35,Middle Age,1,1,1,Shahbagh,Undeveloped,Other,Dhaka,YES
+950,Female,55,Old,1,1,1,Rampura,Developed,Other,Dhaka,YES
+951,Female,16,Young,1,1,1,Lalbagh,Undeveloped,Other,Dhaka,YES
+952,Male,52,Old,0,0,0,Kadamtali,Developed,Building,Dhaka,NO
+953,Female,50,Middle Age,0,0,0,Motijheel,Undeveloped,Other,Dhaka,NO
+954,Female,23,Young,1,1,1,Kafrul,Developed,Tinshed,Dhaka,YES
+955,Male,64,Old,1,1,0,Demra,Undeveloped,Building,Dhaka,YES
+956,Female,50,Middle Age,0,0,0,Rampura,Developed,Tinshed,Dhaka,NO
+957,Female,8,Children,0,1,0,Cantonment,Developed,Other,Dhaka,YES
+958,Female,37,Middle Age,0,0,1,Shyampur,Developed,Tinshed,Dhaka,NO
+959,Female,63,Old,0,0,0,Rampura,Undeveloped,Other,Dhaka,NO
+960,Female,45,Middle Age,0,0,0,Biman Bandar,Developed,Other,Dhaka,NO
+961,Female,26,Young,0,0,0,Khilgaon,Undeveloped,Building,Dhaka,NO
+962,Female,24,Young,0,0,0,Banasree,Developed,Other,Dhaka,NO
+963,Male,31,Middle Age,1,1,0,Keraniganj,Undeveloped,Tinshed,Dhaka,YES
+964,Female,54,Old,0,0,1,Sher-e-Bangla Nagar,Developed,Tinshed,Dhaka,NO
+965,Male,60,Old,1,1,1,Kamrangirchar,Undeveloped,Building,Dhaka,YES
+966,Male,61,Old,1,1,1,Gendaria,Developed,Building,Dhaka,YES
+967,Male,58,Old,0,1,0,Sabujbagh,Undeveloped,Tinshed,Dhaka,YES
+968,Female,39,Middle Age,0,0,1,Sutrapur,Developed,Tinshed,Dhaka,NO
+969,Female,30,Young,0,0,1,Lalbagh,Undeveloped,Other,Dhaka,NO
+970,Male,57,Old,1,1,0,Badda,Developed,Other,Dhaka,YES
+971,Female,40,Middle Age,1,1,0,Paltan,Undeveloped,Tinshed,Dhaka,YES
+972,Male,39,Middle Age,0,0,0,Gulshan,Developed,Building,Dhaka,NO
+973,Female,9,Children,1,1,1,Gulshan,Undeveloped,Other,Dhaka,YES
+974,Male,26,Young,0,1,0,Kamrangirchar,Developed,Other,Dhaka,YES
+975,Female,40,Middle Age,1,1,0,Tejgaon,Undeveloped,Building,Dhaka,YES
+976,Male,49,Middle Age,1,1,1,New Market,Developed,Other,Dhaka,YES
+977,Female,29,Young,0,0,1,Jatrabari,Undeveloped,Tinshed,Dhaka,NO
+978,Female,38,Middle Age,1,1,0,Banasree,Developed,Other,Dhaka,YES
+979,Male,52,Old,0,0,1,Chawkbazar,Undeveloped,Building,Dhaka,NO
+980,Male,64,Old,0,0,0,Hazaribagh,Developed,Building,Dhaka,NO
+981,Male,11,Children,0,0,0,Banasree,Undeveloped,Other,Dhaka,NO
+982,Male,39,Middle Age,1,1,0,Jatrabari,Developed,Other,Dhaka,YES
+983,Male,39,Middle Age,1,1,0,Biman Bandar,Undeveloped,Tinshed,Dhaka,YES
+984,Female,25,Young,1,1,0,Rampura,Developed,Tinshed,Dhaka,YES
+985,Male,9,Children,0,0,1,Mirpur,Undeveloped,Building,Dhaka,NO
+986,Female,61,Old,1,1,0,Gendaria,Developed,Building,Dhaka,YES
+987,Female,18,Young,0,0,1,Gulshan,Undeveloped,Building,Dhaka,NO
+988,Female,55,Old,1,1,0,Cantonment,Developed,Tinshed,Dhaka,YES
+989,Male,11,Children,0,0,0,Banasree,Undeveloped,Building,Dhaka,NO
+990,Male,23,Young,1,1,0,Lalbagh,Developed,Building,Dhaka,YES
+991,Female,37,Middle Age,1,1,1,Jatrabari,Undeveloped,Other,Dhaka,YES
+992,Female,33,Middle Age,0,0,1,Hazaribagh,Developed,Other,Dhaka,NO
+993,Male,18,Young,1,1,0,Kafrul,Undeveloped,Building,Dhaka,YES
+994,Female,15,Children,0,0,0,Kadamtali,Developed,Other,Dhaka,NO
+995,Male,44,Middle Age,0,0,1,Bangshal,Undeveloped,Other,Dhaka,NO
+996,Female,16,Young,1,1,0,New Market,Developed,Building,Dhaka,YES
+997,Male,41,Middle Age,1,1,0,Paltan,Undeveloped,Other,Dhaka,YES
+998,Male,45,Middle Age,0,0,1,Motijheel,Developed,Building,Dhaka,NO
+999,Female,19,Young,1,1,1,Paltan,Undeveloped,Building,Dhaka,YES
+1000,Female,28,Young,0,0,1,Adabor,Developed,Building,Dhaka,NO
